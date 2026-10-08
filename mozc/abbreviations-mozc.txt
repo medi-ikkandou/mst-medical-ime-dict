@@ -1,0 +1,1926 @@
+2-vd	２枝病変	名詞
+3-vd	冠動脈３枝病変	名詞
+aa	aortic valve atresia	名詞
+aa	aplastic anemia	名詞
+aa	再生不良性貧血	名詞
+aa	大動脈弁閉鎖症	名詞
+aaa	abdominal aortic aneurysm	名詞
+aaa	腹部大動脈瘤	名詞
+aad	atlantoaxial dislocation	名詞
+aad	環軸関節脱臼	名詞
+aae	annuloaortic ectasia	名詞
+aae	大動脈弁輪拡張症	名詞
+aas	atlantoaxial subluxation	名詞
+aas	環軸関節亜脱臼	名詞
+aau	acute anterior uveitis	名詞
+aau	急性前部ぶどう膜炎	名詞
+ab	asthmatic bronchitis	名詞
+ab	喘息性気管支炎	名詞
+abe	acute bacterial endocarditis	名詞
+abe	急性細菌性心内膜炎	名詞
+abmr	antibody-mediated rejection	名詞
+abmr	抗体関連型拒絶反応	名詞
+abp	acute bacterial prostatitis	名詞
+abp	急性細菌性前立腺炎	名詞
+abpa	allergic bronchopulmonary aspergillosis	名詞
+abpa	アレルギー性気管支肺アスペルギルス症	名詞
+abu	asymptomatic bacteriuria	名詞
+abu	無症候性細菌尿	名詞
+ac	acute cholangitis	名詞
+ac	acute cholecystitis	名詞
+ac	急性胆のう炎	名詞
+ac	急性胆管炎	名詞
+acd	allergic contact dermatitis	名詞
+acd	アレルギー性接触皮膚炎	名詞
+acdk	acquired cystic disease of the kidney	名詞
+acdk	後天性腎のう胞	名詞
+achd	成人先天性心疾患	名詞
+ackd	acquired cystic disease of the kidney	名詞
+ackd	後天性腎のう胞	名詞
+acle	急性皮膚ループスエリテマトーデス	名詞
+acml	atypical chronic myeloid leukemia	名詞
+acml	非定型慢性骨髄性白血病	名詞
+aco	asthma and chronic obstructive pulmonary disease overlap	名詞
+aco	喘息とＣＯＰＤのオーバーラップ	名詞
+acos	asthma and chronic obstructive pulmonary disease overlap	名詞
+acos	喘息とＣＯＰＤのオーバーラップ	名詞
+acs	acute coronary syndrome	名詞
+acs	急性冠症候群	名詞
+acvd	アテローム硬化性心血管疾患	名詞
+ad	Alzheimer disease	名詞
+ad	atopic dermatitis	名詞
+ad	アトピー性皮膚炎	名詞
+ad	アルツハイマー病	名詞
+add	注意欠陥障害	名詞
+adem	acute disseminated encephalomyelitis	名詞
+adem	急性散在性脳脊髄炎	名詞
+adhd	attention deficit hyperactivity disorder	名詞
+adhd	注意欠陥多動障害	名詞
+adm	amyopathic dermatomyositis	名詞
+adm	無筋症性皮膚筋炎	名詞
+adpkd	autosomal dominant polycystic kidney disease	名詞
+adpkd	常染色体顕性（優性）多発性のう胞腎	名詞
+aedh	acute epidural hematoma	名詞
+aedh	急性硬膜外血腫	名詞
+aep	acute eosinophilic pneumonia	名詞
+aep	急性好酸球性肺炎	名詞
+af	atrial fibrillation	名詞
+af	心房細動	名詞
+afbn	acute focal bacterial nephritis	名詞
+afbn	急性巣状細菌性腎炎	名詞
+afl	atrial flutter	名詞
+afl	心房粗動	名詞
+aga	androgenetic alopecia	名詞
+aga	eosinophilic granulomatosis with polyangiitis	名詞
+aga	好酸球性多発血管炎性肉芽腫症	名詞
+aga	男性型脱毛症	名詞
+age	acute gastroenteritis	名詞
+age	急性胃腸炎	名詞
+agep	acute generalized exanthematous pustulosis	名詞
+agep	急性汎発性発疹性膿疱症	名詞
+aghd	adult growth hormone deficiency	名詞
+aghd	成人成長ホルモン分泌不全	名詞
+agl	acute myeloid leukemia	名詞
+agl	急性骨髄性白血病	名詞
+agml	acute gastric mucosal lesion	名詞
+agml	急性胃粘膜病変	名詞
+agn	acute glomerulonephritis	名詞
+agn	急性糸球体腎炎	名詞
+ags	adrenogenital syndrome	名詞
+ags	副腎性器症候群	名詞
+agvhd	acute graft-versus-host disease	名詞
+agvhd	急性移植片対宿主病	名詞
+ah	acute hepatitis	名詞
+ah	急性肝炎	名詞
+aha	autoimmune hemolytic anemia	名詞
+aha	自己免疫性溶血性貧血	名詞
+ahc	acute hemorrhagic conjunctivitis	名詞
+ahc	急性出血性結膜炎	名詞
+ahd	動脈硬化性心疾患	名詞
+ahd	後天性心疾患	名詞
+ahds	アラン・ハーンドン・ダドリー症候群	名詞
+ahus	atypical hemolytic uremic syndrome	名詞
+ahus	非典型溶血性尿毒症症候群	名詞
+ai	aortic regurgitation	名詞
+ai	大動脈弁閉鎖不全症	名詞
+aia	aspirin-induced asthma	名詞
+aia	アスピリン喘息	名詞
+aid	自己免疫疾患	名詞
+aids	acquired immunodeficiency syndrome	名詞
+aids	後天性免疫不全症候群	名詞
+aih	autoimmune hepatitis	名詞
+aih	自己免疫性肝炎	名詞
+aiha	autoimmune hemolytic anemia	名詞
+aiha	自己免疫性溶血性貧血	名詞
+ain	acute tubulointerstitial nephritis	名詞
+ain	急性尿細管間質性腎炎	名詞
+aiod	大動脈腸骨動脈閉塞症	名詞
+aion	前部虚血性視神経症	名詞
+aion	虚血性前部視神経ニューロパチー	名詞
+aip	acute intermittent porphyria	名詞
+aip	acute interstitial pneumonia	名詞
+aip	急性間欠性ポルフィリン症	名詞
+aip	急性間質性肺炎	名詞
+aitl	angioimmunoblastic T-cell lymphoma	名詞
+aitl	血管免疫芽球性Ｔ細胞リンパ腫	名詞
+aivr	促進心室固有調律	名詞
+ak	actinic keratosis	名詞
+ak	光線角化症	名詞
+aki	acute kidney injury	名詞
+aki	急性腎障害	名詞
+al	acute leukemia	名詞
+al	急性白血病	名詞
+alcapa	anomalous origin of left coronary artery from pulmonary artery	名詞
+alcapa	左冠動脈肺動脈起始症	名詞
+alcl	anaplastic large cell lymphoma	名詞
+alcl	未分化大細胞リンパ腫	名詞
+ald	adrenoleukodystrophy	名詞
+ald	副腎白質ジストロフィー	名詞
+all	acute lymphoblastic leukemia	名詞
+all	急性リンパ性白血病	名詞
+als	amyotrophic lateral sclerosis	名詞
+als	筋萎縮性側索硬化症	名詞
+alte	apparent life-threatening event	名詞
+alte	乳幼児突発性危急事態	名詞
+am	acute myocarditis	名詞
+am	急性心筋炎	名詞
+amc	arthrogryposis multiplex congenita	名詞
+amc	先天性多発性関節拘縮症	名詞
+amd	Pompe disease	名詞
+amd	ポンペ病	名詞
+ami	acute myocardial infarction	名詞
+ami	急性心筋梗塞	名詞
+aml	acute myeloid leukemia	名詞
+aml	急性骨髄性白血病	名詞
+ammol	acute myelomonocytic leukemia	名詞
+ammol	急性骨髄単球性白血病	名詞
+amn	adrenomyeloneuropathy	名詞
+amn	副腎脊髄ニューロパチー	名詞
+amol	acute monocytic leukemia	名詞
+amol	急性単球性白血病	名詞
+ams	急性高山病	名詞
+an	anorexia nervosa	名詞
+an	神経性食欲不振症	名詞
+anll	急性非リンパ性白血病	名詞
+aoc	急性閉塞性胆管炎	名詞
+aod	動脈閉塞症	名詞
+aom	acute otitis media	名詞
+aom	急性中耳炎	名詞
+aosc	acute obstructive suppurative cholangitis	名詞
+aosc	急性閉塞性化膿性胆管炎	名詞
+aosd	adult-onset Still's disease	名詞
+aosd	成人発症スチル病	名詞
+ap	angina pectoris	名詞
+ap	apical periodontitis	名詞
+ap	根尖性歯周炎	名詞
+ap	狭心症	名詞
+apa	アルドステロン産生腺腫	名詞
+apb	premature atrial contraction	名詞
+apb	心房期外収縮	名詞
+apbd	pancreaticobiliary maljunction	名詞
+apbd	膵管胆管合流異常	名詞
+apc	premature atrial contraction	名詞
+apc	心房期外収縮	名詞
+aph	apical hypertrophic cardiomyopathy	名詞
+aph	心尖部肥大型心筋症	名詞
+apl	acute promyelocytic leukemia	名詞
+apl	急性前骨髄球性白血病	名詞
+apn	acute pyelonephritis	名詞
+apn	急性腎盂腎炎	名詞
+aps	antiphospholipid syndrome	名詞
+aps	抗リン脂質抗体症候群	名詞
+apsd	aortopulmonary window	名詞
+apsd	大動脈肺動脈窓	名詞
+apsgn	acute poststreptococcal glomerulonephritis	名詞
+apsgn	溶連菌感染後急性糸球体腎炎	名詞
+ar	allergic rhinitis	名詞
+ar	aortic regurgitation	名詞
+ar	アレルギー性鼻炎	名詞
+ar	大動脈弁逆流症	名詞
+ar	大動脈弁閉鎖不全症	名詞
+arc	AIDS-related complex	名詞
+arc	ＡＩＤＳ関連症候群	名詞
+arcapa	anomalous origin of the right coronary artery from the pulmonary artery	名詞
+arcapa	右冠動脈肺動脈起始症	名詞
+ards	acute respiratory distress syndrome	名詞
+ards	急性呼吸窮迫症候群	名詞
+arf	acute renal failure	名詞
+arf	acute respiratory failure	名詞
+arf	acute rheumatic fever	名詞
+arf	急性リウマチ熱	名詞
+arf	急性呼吸不全	名詞
+arf	急性腎不全	名詞
+arn	acute retinal necrosis	名詞
+arn	急性網膜壊死	名詞
+aronj	antiresorptive agent-related osteonecrosis of the jaw	名詞
+aronj	骨吸収抑制薬関連顎骨壊死	名詞
+arpkd	autosomal recessive polycystic kidney disease	名詞
+arpkd	常染色体潜性（劣性）多発性のう胞腎	名詞
+ars	急性放射線症候群	名詞
+arvc	arrhythmogenic right ventricular cardiomyopathy	名詞
+arvc	不整脈原性右室心筋症	名詞
+arvd	arrhythmogenic right ventricular cardiomyopathy	名詞
+arvd	不整脈原性右室心筋症	名詞
+as	ankylosing spondylitis	名詞
+as	aortic stenosis	名詞
+as	大動脈弁狭窄症	名詞
+as	強直性脊椎炎	名詞
+ascvd	動脈硬化性心血管疾患	名詞
+asd	atrial septal defect	名詞
+asd	autism spectrum disorder	名詞
+asd	心房中隔欠損症	名詞
+asd	自閉症スペクトラム障害	名詞
+asdh	acute subdural hematoma	名詞
+asdh	急性硬膜下血腫	名詞
+ash	ankylosing spinal hyperostosis	名詞
+ash	強直性脊椎骨増殖症	名詞
+ashd	動脈硬化性心疾患	名詞
+aso	arteriosclerosis obliterans	名詞
+aso	閉塞性動脈硬化症	名詞
+ast	astigmatism	名詞
+ast	乱視	名詞
+asterixis	羽ばたき振戦	名詞
+at	atrial tachycardia	名詞
+at	心房頻拍	名詞
+atd	Alzheimer type dementia	名詞
+atd	アルツハイマー型認知症	名詞
+atl	adult T-cell leukemia-lymphoma	名詞
+atl	成人Ｔ細胞白血病リンパ腫	名詞
+atll	adult T-cell leukemia-lymphoma	名詞
+atll	成人Ｔ細胞白血病リンパ腫	名詞
+atn	acute tubular necrosis	名詞
+atn	急性尿細管壊死	名詞
+avb	atrioventricular block	名詞
+avb	房室ブロック	名詞
+avcd	atrioventricular septal defect	名詞
+avcd	房室中隔欠損症	名詞
+avf	arteriovenous fistula	名詞
+avf	動静脈瘻	名詞
+avh	acute viral hepatitis	名詞
+avh	急性ウイルス性肝炎	名詞
+avm	cerebral arteriovenous malformation	名詞
+avm	動静脈奇形	名詞
+avm	脳動静脈奇形	名詞
+avnrt	atrioventricular nodal reentrant tachycardia	名詞
+avnrt	房室結節リエントリー性頻拍	名詞
+avrt	atrioventricular reciprocating tachycardia	名詞
+avrt	房室回帰性頻拍	名詞
+avsd	atrioventricular septal defect	名詞
+avsd	房室中隔欠損症	名詞
+azoor	acute zonal occult outer retinopathy	名詞
+azoor	急性帯状潜在性網膜外層症	名詞
+ba	biliary atresia	名詞
+ba	bronchial asthma	名詞
+ba	気管支喘息	名詞
+ba	胆道閉鎖症	名詞
+bad	分枝粥腫病型脳梗塞	名詞
+bafme	benign adult familial myoclonic epilepsy	名詞
+bafme	良性成人型家族性ミオクローヌスてんかん	名詞
+bbb	bundle branch block	名詞
+bbb	脚ブロック	名詞
+bc	breast cancer	名詞
+bc	乳癌	名詞
+bcc	basal cell carcinoma	名詞
+bcc	基底細胞癌	名詞
+bd	Behcet disease	名詞
+bd	ベーチェット病	名詞
+bhl	bilateral hilar lymphadenopathy	名詞
+bhl	両側肺門リンパ節腫脹	名詞
+bi	basilar invagination	名詞
+bi	頭蓋底陥入症	名詞
+bih	benign intracranial hypertension	名詞
+bih	良性頭蓋内圧亢進症	名詞
+bmd	Becker muscular dystrophy	名詞
+bmd	ベッカー型筋ジストロフィー	名詞
+bmm	bone marrow metastasis	名詞
+bmm	骨髄転移	名詞
+bo	bronchiolitis obliterans	名詞
+bo	閉塞性細気管支炎	名詞
+bp	bullous pemphigoid	名詞
+bp	水疱性類天疱瘡	名詞
+bpd	borderline personality disorder	名詞
+bpd	bronchopulmonary dysplasia	名詞
+bpd	境界型パーソナリティ障害	名詞
+bpd	気管支肺異形成症	名詞
+bpdcn	blastic plasmacytoid dendritic cell neoplasm	名詞
+bpdcn	芽球性形質細胞様樹状細胞腫瘍	名詞
+bph	benign prostatic hyperplasia	名詞
+bph	前立腺肥大症	名詞
+bpi	brachial plexus injury	名詞
+bpi	腕神経叢損傷	名詞
+bppv	benign paroxysmal positional vertigo	名詞
+bppv	良性発作性頭位めまい症	名詞
+bpsd	認知症の行動・心理症状	名詞
+bre	良性ローランドてんかん	名詞
+bronj	bisphosphonate-related osteonecrosis of the jaw	名詞
+bronj	ビスフォスフォネート関連顎骨壊死	名詞
+brrs	Bannayan-Riley-Ruvalcaba syndrome	名詞
+brrs	バナヤン・ライリー・ルバルカバ症候群	名詞
+brvo	branch retinal vein occlusion	名詞
+brvo	網膜静脈分枝閉塞症	名詞
+bse	牛海綿状脳症	名詞
+bsma	spinal and bulbar muscular atrophy	名詞
+bsma	球脊髄性筋萎縮症	名詞
+bt	bladder tumor	名詞
+bt	brain tumor	名詞
+bt	脳腫瘍	名詞
+bt	膀胱腫瘍	名詞
+bts	bradycardia-tachycardia syndrome	名詞
+bts	徐脈頻脈症候群	名詞
+bvh	biventricular hypertrophy	名詞
+bvh	両室肥大	名詞
+ca	cancer	名詞
+ca	癌	名詞
+cad	coronary artery disease	名詞
+cad	冠動脈疾患	名詞
+caebv	chronic active Epstein-Barr virus infection	名詞
+caebv	慢性活動性ＥＢウイルス感染症	名詞
+cam	chorioamnionitis	名詞
+cam	絨毛膜羊膜炎	名詞
+cap	prostate cancer	名詞
+cap	前立腺癌	名詞
+cap	市中肺炎	名詞
+caps	cryopyrin-associated periodic syndrome	名詞
+caps	クリオピリン関連周期熱症候群	名詞
+car	cancer-associated retinopathy	名詞
+car	癌関連網膜症	名詞
+cauti	catheter-associated urinary tract infection	名詞
+cauti	カテーテル関連尿路感染症	名詞
+cavb	complete atrioventricular block	名詞
+cavb	完全房室ブロック	名詞
+cavf	coronary arteriovenous fistula	名詞
+cavf	冠動静脈瘻	名詞
+cb	chronic bronchitis	名詞
+cb	慢性気管支炎	名詞
+cba	biliary atresia	名詞
+cba	先天性胆道閉鎖症	名詞
+cba	胆道閉鎖症	名詞
+cbcl	皮膚B細胞性リンパ腫	名詞
+cbd	congenital biliary dilatation	名詞
+cbd	corticobasal degeneration	名詞
+cbd	先天性胆道拡張症	名詞
+cbd	大脳皮質基底核変性症	名詞
+cbdc	小児慢性水疱症	名詞
+cbp	chronic bacterial prostatitis	名詞
+cbp	慢性細菌性前立腺炎	名詞
+cbs	大脳皮質基底核症候群	名詞
+cbs	慢性脳症候群	名詞
+cc	cholangiocarcinoma	名詞
+cc	choriocarcinoma	名詞
+cc	絨毛癌	名詞
+cc	胆管癌	名詞
+cca	先天性拘縮性蜘蛛状指	名詞
+ccam	congenital cystic adenomatoid malformation	名詞
+ccam	先天性のう胞性腺腫様形成異常	名詞
+ccc	胆管細胞癌	名詞
+ccd	central core disease	名詞
+ccd	cleidocranial dysplasia	名詞
+ccd	セントラルコア病	名詞
+ccd	鎖骨頭蓋骨異形成	名詞
+ccf	頸動脈海綿静脈洞瘻	名詞
+cchd	cyanotic congenital heart disease	名詞
+cchd	チアノーゼ性先天性心疾患	名詞
+ccm	うっ血型心筋症	名詞
+ccm	うっ血性心筋症	名詞
+ccp	chronic cor pulmonale	名詞
+ccp	慢性肺性心	名詞
+ccsk	clear cell sarcoma of the kidney	名詞
+ccsk	腎明細胞肉腫	名詞
+cd	Crohn disease	名詞
+cd	クローン病	名詞
+cdh	cervical disc herniation	名詞
+cdh	頚椎椎間板ヘルニア	名詞
+cdle	慢性円板状エリテマトーデス	名詞
+cep	chronic eosinophilic pneumonia	名詞
+cep	慢性好酸球性肺炎	名詞
+cfs	chronic fatigue syndrome	名詞
+cfs	慢性疲労症候群	名詞
+cgd	chronic granulomatous disease	名詞
+cgd	慢性肉芽腫症	名詞
+cgl	chronic myeloid leukemia	名詞
+cgl	慢性骨髄性白血病	名詞
+cgn	chronic glomerulonephritis	名詞
+cgn	慢性糸球体腎炎	名詞
+cgvhd	chronic graft-versus-host disease	名詞
+cgvhd	慢性移植片対宿主病	名詞
+ch	chronic hepatitis	名詞
+ch	慢性肝炎	名詞
+chd	congenital heart disease	名詞
+chd	coronary artery disease	名詞
+chd	coronary heart disease	名詞
+chd	先天性心疾患	名詞
+chd	冠動脈疾患	名詞
+chd	冠状動脈性心疾患	名詞
+chf	congestive heart failure	名詞
+chf	うっ血性心不全	名詞
+chl	classical Hodgkin lymphoma	名詞
+chl	古典的ホジキンリンパ腫	名詞
+ci	cerebral infarction	名詞
+ci	脳梗塞	名詞
+cid	巨大細胞封入体病	名詞
+cidp	chronic inflammatory demyelinating polyneuropathy	名詞
+cidp	慢性炎症性脱髄性多発神経炎	名詞
+ciip	chronic idiopathic intestinal pseudo-obstruction	名詞
+ciip	慢性特発性偽性腸閉塞症	名詞
+cin	cervical intraepithelial neoplasia	名詞
+cin	chronic tubulointerstitial nephritis	名詞
+cin	子宮頚部上皮内腫瘍	名詞
+cin	慢性尿細管間質性腎炎	名詞
+cinca	neonatal-onset multisystem inflammatory disease	名詞
+cinca	新生児期発症多臓器系炎症性疾患	名詞
+cis	carcinoma in situ	名詞
+cis	上皮内癌	名詞
+cjd	Creutzfeldt-Jakob disease	名詞
+cjd	クロイツフェルト・ヤコブ病	名詞
+ckd	chronic kidney disease	名詞
+ckd	慢性腎臓病	名詞
+clbbb	complete left bundle branch block	名詞
+clbbb	完全左脚ブロック	名詞
+cld	慢性肝疾患	名詞
+cld	慢性肺疾患	名詞
+cli	critical limb ischemia	名詞
+cli	重症虚血肢	名詞
+cll	chronic lymphocytic leukemia	名詞
+cll	慢性リンパ性白血病	名詞
+clp	cleft lip, alveolus and palate	名詞
+clp	唇顎口蓋裂	名詞
+clti	包括的高度慢性下肢虚血	名詞
+cm	cardiomyopathy	名詞
+cm	心筋症	名詞
+cmd	congenital muscular dystrophy	名詞
+cmd	先天性筋ジストロフィー	名詞
+cml	chronic myeloid leukemia	名詞
+cml	慢性骨髄性白血病	名詞
+cmmol	chronic myelomonocytic leukemia	名詞
+cmmol	慢性骨髄単球性白血病	名詞
+cmp	chondromalacia patellae	名詞
+cmp	膝蓋軟骨軟化症	名詞
+cmt	Charcot-Marie-Tooth disease	名詞
+cmt	シャルコー・マリー・トゥース病	名詞
+co	要観察歯	名詞
+coa	coarctation of the aorta	名詞
+coa	大動脈縮窄症	名詞
+cold	chronic obstructive pulmonary disease	名詞
+cold	慢性閉塞性肺疾患	名詞
+cop	cryptogenic organizing pneumonia	名詞
+cop	特発性器質化肺炎	名詞
+copd	chronic obstructive pulmonary disease	名詞
+copd	慢性閉塞性肺疾患	名詞
+covid-19	coronavirus disease 2019	名詞
+covid-19	ＣＯＶＩＤ－１９	名詞
+cp	cerebral palsy	名詞
+cp	chronic pancreatitis	名詞
+cp	cleft palate	名詞
+cp	constrictive pericarditis	名詞
+cp	cor pulmonale	名詞
+cp	収縮性心膜炎	名詞
+cp	口蓋裂	名詞
+cp	慢性膵炎	名詞
+cp	肺性心	名詞
+cp	脳性麻痺	名詞
+cpa	cardiopulmonary arrest	名詞
+cpa	心肺停止	名詞
+cpaoa	cardiopulmonary arrest on arrival	名詞
+cpaoa	来院時心肺停止	名詞
+cph	chronic persistent hepatitis	名詞
+cph	慢性持続性肝炎	名詞
+cpip	未熟児慢性肺機能不全	名詞
+cpm	central pontine myelinolysis	名詞
+cpm	橋中心髄鞘崩壊症	名詞
+cpn	chronic pyelonephritis	名詞
+cpn	慢性腎盂腎炎	名詞
+cps	complex partial seizure	名詞
+cps	てんかん複雑部分発作	名詞
+cpvt	catecholaminergic polymorphic ventricular tachycardia	名詞
+cpvt	カテコラミン誘発多形性心室頻拍	名詞
+cr	chronic rejection	名詞
+cr	慢性拒絶反応	名詞
+cra	rheumatoid arthritis	名詞
+cra	関節リウマチ	名詞
+crao	central retinal artery occlusion	名詞
+crao	網膜中心動脈閉塞症	名詞
+crbbb	complete right bundle branch block	名詞
+crbbb	完全右脚ブロック	名詞
+crbsi	カテーテル関連血流感染	名詞
+crf	chronic renal failure	名詞
+crf	慢性腎不全	名詞
+crpc	castration-resistant prostate cancer	名詞
+crpc	去勢抵抗性前立腺癌	名詞
+crps	complex regional pain syndrome	名詞
+crps	複合性局所疼痛症候群	名詞
+crs	catheter sepsis	名詞
+crs	カテーテル敗血症	名詞
+crvo	central retinal vein occlusion	名詞
+crvo	網膜中心静脈閉塞症	名詞
+cs	cervical spondylosis	名詞
+cs	cesarean section	名詞
+cs	chondrosarcoma	名詞
+cs	帝王切開	名詞
+cs	軟骨肉腫	名詞
+cs	頚椎症	名詞
+csa	coronary spastic angina	名詞
+csa	冠攣縮性狭心症	名詞
+csdh	chronic subdural hematoma	名詞
+csdh	慢性硬膜下血腫	名詞
+csm	cervical spondylotic myelopathy	名詞
+csm	頚椎症性脊髄症	名詞
+csr	Cheyne-Stokes respiration	名詞
+csr	cervical spondylotic radiculopathy	名詞
+csr	チェーン・ストークス呼吸	名詞
+csr	頚椎症性神経根症	名詞
+css	eosinophilic granulomatosis with polyangiitis	名詞
+css	好酸球性多発血管炎性肉芽腫症	名詞
+csws	cerebral salt wasting syndrome	名詞
+csws	中枢性塩喪失症候群	名詞
+cteph	chronic thromboembolic pulmonary hypertension	名詞
+cteph	慢性血栓塞栓性肺高血圧症	名詞
+ctga	congenitally corrected transposition of the great arteries	名詞
+ctga	修正大血管転位	名詞
+ctrcd	がん治療関連心機能障害	名詞
+cts	carpal tunnel syndrome	名詞
+cts	手根管症候群	名詞
+ctx	cerebrotendinous xanthomatosis	名詞
+ctx	脳腱黄色腫症	名詞
+cva	stroke	名詞
+cva	脳卒中	名詞
+cvd	cerebrovascular disease	名詞
+cvd	心血管疾患	名詞
+cvd	脳血管障害	名詞
+cvid	common variable immunodeficiency	名詞
+cvid	分類不能型免疫不全症	名詞
+cvt	cerebral venous thrombosis	名詞
+cvt	脳静脈血栓症	名詞
+d-hcm	dilated phase of hypertrophic cardiomyopathy	名詞
+d-hcm	拡張相肥大型心筋症	名詞
+da	dissecting aneurysm	名詞
+da	duodenal atresia	名詞
+da	十二指腸閉鎖	名詞
+da	解離性動脈瘤	名詞
+daa	dissecting aortic aneurysm	名詞
+daa	解離性大動脈瘤	名詞
+dad	diffuse alveolar damage	名詞
+dad	びまん性肺胞傷害	名詞
+dat	Alzheimer type dementia	名詞
+dat	アルツハイマー型認知症	名詞
+davf	dural arteriovenous fistula	名詞
+davf	硬膜動静脈瘻	名詞
+db	第３度熱傷	名詞
+dbi	diffuse brain injury	名詞
+dbi	びまん性脳損傷	名詞
+dcm	idiopathic dilated cardiomyopathy	名詞
+dcm	拡張型心筋症	名詞
+dcm	特発性拡張型心筋症	名詞
+dcrv	double-chambered right ventricle	名詞
+dcrv	右室二腔症	名詞
+ddb	真皮深層熱傷	名詞
+di	diabetes insipidus	名詞
+di	尿崩症	名詞
+dic	disseminated intravascular coagulation	名詞
+dic	播種性血管内凝固	名詞
+dihs	drug-induced hypersensitivity syndrome	名詞
+dihs	薬剤性過敏症症候群	名詞
+dilv	左室型単心室症	名詞
+dip	desquamative interstitial pneumonia	名詞
+dip	剥離性間質性肺炎	名詞
+dirv	single ventricle of right ventricular type	名詞
+dirv	右室型単心室症	名詞
+dka	diabetic ketoacidosis	名詞
+dka	糖尿病性ケトアシドーシス	名詞
+dkd	diabetic kidney disease	名詞
+dkd	糖尿病性腎臓病	名詞
+dki	drug-induced kidney injury	名詞
+dki	薬剤性腎障害	名詞
+dlb	dementia with Lewy bodies	名詞
+dlb	レビー小体型認知症	名詞
+dlbcl	diffuse large B-cell lymphoma	名詞
+dlbcl	びまん性大細胞型Ｂ細胞性リンパ腫	名詞
+dle	discoid lupus erythematosus	名詞
+dle	円板状エリテマトーデス	名詞
+dm	dermatomyositis	名詞
+dm	diabetes mellitus	名詞
+dm	myotonic dystrophy	名詞
+dm	皮膚筋炎	名詞
+dm	筋強直性ジストロフィー	名詞
+dm	糖尿病	名詞
+dmd	Duchenne muscular dystrophy	名詞
+dmd	デュシェンヌ型筋ジストロフィー	名詞
+dme	diabetic macular edema	名詞
+dme	糖尿病黄斑浮腫	名詞
+dmp	進行性筋ジストロフィー	名詞
+doc	disturbance of consciousness	名詞
+doc	意識障害	名詞
+doe	dyspnea on exertion	名詞
+doe	労作時呼吸困難	名詞
+dolv	double outlet left ventricle	名詞
+dolv	両大血管左室起始症	名詞
+dorv	double outlet right ventricle	名詞
+dorv	両大血管右室起始症	名詞
+dpb	diffuse panbronchiolitis	名詞
+dpb	びまん性汎細気管支炎	名詞
+dr	diabetic retinopathy	名詞
+dr	糖尿病網膜症	名詞
+drd	dopa-responsive dystonia	名詞
+drd	ドーパ反応性ジストニア	名詞
+drpla	dentatorubral-pallidoluysian atrophy	名詞
+drpla	歯状核赤核淡蒼球ルイ体萎縮症	名詞
+drta	distal renal tubular acidosis	名詞
+drta	遠位尿細管性アシドーシス	名詞
+dsd	排尿筋外括約筋協働不全	名詞
+dsrct	desmoplastic small round cell tumor	名詞
+dsrct	線維形成性小円形細胞腫瘍	名詞
+du	duodenal ulcer	名詞
+du	十二指腸潰瘍	名詞
+dub	dysfunctional uterine bleeding	名詞
+dub	機能性子宮出血	名詞
+dvd	二枝疾患	名詞
+dvd	交代性上斜位	名詞
+dvt	deep venous thrombosis	名詞
+dvt	深部静脈血栓症	名詞
+eaa	hypersensitivity pneumonitis	名詞
+eaa	過敏性肺炎	名詞
+eb	表皮水疱症	名詞
+eba	epidermolysis bullosa acquisita	名詞
+eba	後天性表皮水疱症	名詞
+eba	肝外胆道閉鎖症	名詞
+ebd	dystrophic epidermolysis bullosa	名詞
+ebd	栄養障害型表皮水疱症	名詞
+ebs	epidermolysis bullosa simplex	名詞
+ebs	単純型表皮水疱症	名詞
+ecd	endocardial cushion defect	名詞
+ecd	心内膜床欠損症	名詞
+ed	erectile dysfunction	名詞
+ed	勃起不全	名詞
+edh	epidural hematoma	名詞
+edh	硬膜外血腫	名詞
+eds	Ehlers-Danlos syndrome	名詞
+eds	エーラス・ダンロス症候群	名詞
+eem	erythema multiforme exsudativum	名詞
+eem	多形滲出性紅斑	名詞
+ef	eosinophilic fasciitis	名詞
+ef	好酸球性筋膜炎	名詞
+efe	endocardial fibroelastosis	名詞
+efe	心内膜線維弾性症	名詞
+egc	early gastric cancer	名詞
+egc	早期胃癌	名詞
+egpa	eosinophilic granulomatosis with polyangiitis	名詞
+egpa	好酸球性多発血管炎性肉芽腫症	名詞
+eh	essential hypertension	名詞
+eh	本態性高血圧症	名詞
+ehba	肝外胆道閉鎖症	名詞
+eho	extrahepatic portal obstruction	名詞
+eho	肝外門脈閉塞症	名詞
+eht	essential hypertension	名詞
+eht	本態性高血圧症	名詞
+eia	exercise-induced asthma	名詞
+eia	運動誘発性喘息	名詞
+eib	運動誘発性気管支攣縮	名詞
+ekc	epidemic keratoconjunctivitis	名詞
+ekc	流行性角結膜炎	名詞
+elbw	extremely low birth weight infant	名詞
+elbw	超低出生体重児	名詞
+em	endometriosis	名詞
+em	erythema multiforme	名詞
+em	多形紅斑	名詞
+em	子宮内膜症	名詞
+eme	early myoclonic encephalopathy	名詞
+eme	早期ミオクロニー脳症	名詞
+emf	endomyocardial fibrosis	名詞
+emf	心内膜心筋線維症	名詞
+en	erythema nodosum	名詞
+en	結節性紅斑	名詞
+ep	ectopic pregnancy	名詞
+ep	eosinophilic pneumonia	名詞
+ep	好酸球性肺炎	名詞
+ep	異所性妊娠	名詞
+epc	epilepsia partialis continua	名詞
+epc	持続性部分てんかん	名詞
+epi	膵外分泌機能不全	名詞
+epp	erythropoietic protoporphyria	名詞
+epp	骨髄性プロトポルフィリン症	名詞
+eps	encapsulating peritoneal sclerosis	名詞
+eps	被のう性腹膜硬化症	名詞
+eps	錐体外路症候群	名詞
+ero	dental erosion	名詞
+ero	歯酸蝕症	名詞
+es	extrasystole	名詞
+es	期外収縮	名詞
+eskd	end-stage renal disease	名詞
+eskd	末期腎不全	名詞
+esrd	end-stage renal disease	名詞
+esrd	末期腎不全	名詞
+et	esotropia	名詞
+et	essential tremor	名詞
+et	内斜視	名詞
+et	本態性振戦	名詞
+ev	esophageal varices	名詞
+ev	食道静脈瘤	名詞
+fa	fibroadenoma	名詞
+fa	線維腺腫	名詞
+fad	familial Alzheimer disease	名詞
+fad	家族性アルツハイマー病	名詞
+fap	familial adenomatous polyposis	名詞
+fap	familial amyloidotic polyneuropathy	名詞
+fap	家族性アミロイドポリニューロパチー	名詞
+fap	家族性大腸ポリポーシス	名詞
+fas	fetal alcohol syndrome	名詞
+fas	胎児アルコール症候群	名詞
+fc	febrile seizure	名詞
+fc	熱性痙攣	名詞
+fcas	familial cold autoinflammatory syndrome	名詞
+fcas	家族性寒冷自己炎症症候群	名詞
+fch	familial combined hyperlipidemia	名詞
+fch	家族性複合型高脂血症	名詞
+fd	familial dysautonomia	名詞
+fd	functional dyspepsia	名詞
+fd	家族性自律神経失調症	名詞
+fd	機能性ディスペプシア	名詞
+fdcm	家族性拡張型心筋症	名詞
+fdeia	food-dependent exercise-induced anaphylaxis	名詞
+fdeia	食物依存性運動誘発アナフィラキシー	名詞
+fdh	巣状皮膚形成不全症候群	名詞
+fel	家族性血球貪食性細網症	名詞
+fevr	familial exudative vitreoretinopathy	名詞
+fevr	家族性滲出性硝子体網膜症	名詞
+ffi	fatal familial insomnia	名詞
+ffi	致死性家族性不眠症	名詞
+fgn	focal glomerulonephritis	名詞
+fgn	巣状糸球体腎炎	名詞
+fgr	intrauterine growth retardation	名詞
+fgr	子宮内発育遅延	名詞
+fgs	focal segmental glomerulosclerosis	名詞
+fgs	巣状分節性糸球体硬化症	名詞
+fh	familial hypercholesterolemia	名詞
+fh	家族性高コレステロール血症	名詞
+fibgc	家族性特発性基底核石灰化症	名詞
+fl	follicular lymphoma	名詞
+fl	濾胞性リンパ腫	名詞
+flu	influenza	名詞
+flu	インフルエンザ	名詞
+fmf	familial Mediterranean fever	名詞
+fmf	家族性地中海熱	名詞
+fp	facial palsy	名詞
+fp	顔面神経麻痺	名詞
+fpah	家族性肺動脈性肺高血圧症	名詞
+fpies	food protein-induced enterocolitis syndrome	名詞
+fpies	食物蛋白誘発胃腸炎	名詞
+frn	胎児性横紋筋腫型腎芽腫	名詞
+fsgs	focal segmental glomerulosclerosis	名詞
+fsgs	巣状分節性糸球体硬化症	名詞
+fsh	facioscapulohumeral muscular dystrophy	名詞
+fsh	顔面肩甲上腕型筋ジストロフィー	名詞
+fshd	facioscapulohumeral muscular dystrophy	名詞
+fshd	顔面肩甲上腕型筋ジストロフィー	名詞
+fsp	hereditary spastic paraplegia	名詞
+fsp	家族性痙性対麻痺	名詞
+ftd	frontotemporal dementia	名詞
+ftd	前頭側頭型認知症	名詞
+fuo	fever of unknown origin	名詞
+fuo	不明熱	名詞
+fx	fracture	名詞
+fx	骨折	名詞
+gave	gastric antral vascular ectasia	名詞
+gave	胃前庭部毛細血管拡張症	名詞
+gbs	Guillain-Barre syndrome	名詞
+gbs	ギラン・バレー症候群	名詞
+gca	giant cell arteritis	名詞
+gca	巨細胞動脈炎	名詞
+gcl	Krabbe disease	名詞
+gcl	クラッベ病	名詞
+gcp	ポリープ状嚢胞性胃炎	名詞
+gct	巨細胞腫	名詞
+gct	顆粒細胞腫	名詞
+gct	顆粒膜細胞腫	名詞
+gdm	gestational diabetes mellitus	名詞
+gdm	妊娠糖尿病	名詞
+ge	gastroenteritis	名詞
+ge	胃腸炎	名詞
+ger	胃食道逆流	名詞
+gerd	gastroesophageal reflux disease	名詞
+gerd	胃食道逆流症	名詞
+gip	巨細胞性間質性肺炎	名詞
+gist	消化管間質腫瘍	名詞
+gl	glaucoma	名詞
+gl	緑内障	名詞
+gm	grand mal seizure	名詞
+gm	てんかん大発作	名詞
+gn	glomerulonephritis	名詞
+gn	糸球体腎炎	名詞
+gp	general paresis	名詞
+gp	進行麻痺	名詞
+gpa	granulomatosis with polyangiitis	名詞
+gpa	多発血管炎性肉芽腫症	名詞
+gpc	giant papillary conjunctivitis	名詞
+gpc	巨大乳頭結膜炎	名詞
+gpi	general paresis	名詞
+gpi	進行麻痺	名詞
+gra	糖質コルチコイド反応性アルドステロン症	名詞
+gs	胆石	名詞
+gsd	glycogen storage disease	名詞
+gsd	糖原病	名詞
+gsi	真性腹圧性尿失禁	名詞
+gss	Gerstmann-Straussler-Scheinker disease	名詞
+gss	ゲルストマン・ストロイスラー・シャインカー病	名詞
+gtc	全身性強直性間代発作	名詞
+gtcs	全身性強直性間代発作	名詞
+gtd	妊娠性絨毛性疾患	名詞
+gts	Gilles de la Tourette syndrome	名詞
+gts	ジル・ドゥ・ラ・トゥーレット症候群	名詞
+gu	gastric ulcer	名詞
+gu	胃潰瘍	名詞
+gvhd	graft versus host disease	名詞
+gvhd	移植片対宿主病	名詞
+ha	habitual abortion	名詞
+ha	hepatitis A	名詞
+ha	習慣流産	名詞
+ha	Ａ型肝炎	名詞
+haap	ヒトＴ細胞白血病ウイルスＩ型関連関節疾患	名詞
+haba	ヒトT細胞白血病ウイルスI型関連気管支肺胞疾患	名詞
+habc	hypomyelination with atrophy of the basal ganglia and cerebellum	名詞
+habc	基底核および小脳萎縮を伴う髄鞘形成不全症	名詞
+hace	高地性脳浮腫	名詞
+hae	hereditary angioedema	名詞
+hae	遺伝性血管性浮腫	名詞
+ham	HTLV-1-associated myelopathy	名詞
+ham	ＨＴＬＶ－１関連脊髄症	名詞
+hane	hereditary angioedema	名詞
+hane	遺伝性血管性浮腫	名詞
+hap	院内肺炎	名詞
+hape	high altitude pulmonary edema	名詞
+hape	高地肺水腫	名詞
+hb	hepatitis B	名詞
+hb	Ｂ型肝炎	名詞
+hc	hepatitis C	名詞
+hc	Ｃ型肝炎	名詞
+hcc	hepatocellular carcinoma	名詞
+hcc	肝細胞癌	名詞
+hcl	hairy cell leukemia	名詞
+hcl	ヘアリー細胞白血病	名詞
+hcm	hypertrophic cardiomyopathy	名詞
+hcm	肥大型心筋症	名詞
+hd	Hansen's disease	名詞
+hd	Hodgkin lymphoma	名詞
+hd	Huntington disease	名詞
+hd	ハンセン病	名詞
+hd	ハンチントン病	名詞
+hd	ホジキンリンパ腫	名詞
+hdn	新生児出血性疾患	名詞
+hdn	新生児溶血性疾患	名詞
+hdp	hypertensive disorders of pregnancy	名詞
+hdp	妊娠高血圧症候群	名詞
+hes	好酸球増加症候群	名詞
+hes	好酸球増多症候群	名詞
+hf	heart failure	名詞
+hf	心不全	名詞
+hfd	過体重児	名詞
+hfmd	hand foot and mouth disease	名詞
+hfmd	手足口病	名詞
+hfmref	heart failure with mildly-reduced ejection fraction	名詞
+hfmref	左室駆出率が軽度低下した心不全	名詞
+hfpef	heart failure with preserved ejection fraction	名詞
+hfpef	左室駆出率の保たれた心不全	名詞
+hfrecef	左室駆出率が改善した心不全	名詞
+hfref	heart failure with reduced ejection fraction	名詞
+hfref	左室駆出率の低下した心不全	名詞
+hfrs	hemorrhagic fever with renal syndrome	名詞
+hfrs	腎症候性出血熱	名詞
+hfs	hand-foot syndrome	名詞
+hfs	手足症候群	名詞
+hh	hiatal hernia	名詞
+hh	食道裂孔ヘルニア	名詞
+hhd	hypertensive heart disease	名詞
+hhd	高血圧性心疾患	名詞
+hhs	hyperglycemic hyperosmolar syndrome	名詞
+hhs	高血糖高浸透圧症候群	名詞
+hht	hereditary hemorrhagic telangiectasia	名詞
+hht	オスラー病	名詞
+hi	head injury	名詞
+hi	頭部外傷	名詞
+hie	低酸素性虚血性脳症	名詞
+hih	hypertensive intracerebral hemorrhage	名詞
+hih	高血圧性脳内出血	名詞
+hit	heparin-induced thrombocytopenia	名詞
+hit	ヘパリン起因性血小板減少症	名詞
+hl	Hodgkin lymphoma	名詞
+hl	hyperlipidemia	名詞
+hl	ホジキンリンパ腫	名詞
+hl	高脂血症	名詞
+hlhs	hypoplastic left heart syndrome	名詞
+hlhs	左心低形成症候群	名詞
+hmd	新生児特発性呼吸窮迫症候群	名詞
+hmsn	hereditary motor and sensory neuropathy	名詞
+hmsn	遺伝性運動感覚性ニューロパチー	名詞
+hncm	hypertrophic nonobstructive cardiomyopathy	名詞
+hncm	非閉塞性肥大型心筋症	名詞
+hnp	disc herniation	名詞
+hnp	椎間板ヘルニア	名詞
+hoa	肥大性骨関節症	名詞
+hocm	hypertrophic obstructive cardiomyopathy	名詞
+hocm	閉塞性肥大型心筋症	名詞
+hp	hypersensitivity pneumonitis	名詞
+hp	過敏性肺炎	名詞
+hps	hypertrophic pyloric stenosis	名詞
+hps	肥厚性幽門狭窄症	名詞
+hsan	hereditary sensory and autonomic neuropathy	名詞
+hsan	遺伝性感覚性自律神経性ニューロパチー	名詞
+hse	herpes encephalitis	名詞
+hse	ヘルペス脳炎	名詞
+hsil	子宮頚部細胞診・高度扁平上皮内病変	名詞
+hsn	hereditary sensory neuropathy	名詞
+hsn	遺伝性感覚性ニューロパチー	名詞
+hsp	IgA vasculitis	名詞
+hsp	ＩｇＡ血管炎	名詞
+hsve	herpes encephalitis	名詞
+hsve	ヘルペス脳炎	名詞
+ht	hypertension	名詞
+ht	高血圧症	名詞
+htn	hypertension	名詞
+htn	高血圧症	名詞
+hua	hyperuricemia	名詞
+hua	高尿酸血症	名詞
+hus	hemolytic uremic syndrome	名詞
+hus	溶血性尿毒症症候群	名詞
+hv	hallux valgus	名詞
+hv	外反母趾	名詞
+hys	dentin hypersensitivity	名詞
+hys	象牙質知覚過敏症	名詞
+hz	herpes zoster	名詞
+hz	帯状疱疹	名詞
+iaa	interrupted aortic arch	名詞
+iaa	大動脈弓離断症	名詞
+iah	idiopathic hyperaldosteronism	名詞
+iah	特発性アルドステロン症	名詞
+ibd	inflammatory bowel disease	名詞
+ibd	炎症性腸疾患	名詞
+ibgc	idiopathic basal ganglia calcification	名詞
+ibgc	特発性基底核石灰化症	名詞
+ibl	免疫芽球性リンパ節症	名詞
+ibs	irritable bowel syndrome	名詞
+ibs	過敏性腸症候群	名詞
+ic	intermittent claudication	名詞
+ic	間欠性跛行	名詞
+icc	intrahepatic cholangiocarcinoma	名詞
+icc	肝内胆管癌	名詞
+iccd	孤発性心臓伝導障害	名詞
+ich	cerebral hemorrhage	名詞
+ich	脳出血	名詞
+icm	ischemic cardiomyopathy	名詞
+icm	虚血性心筋症	名詞
+ida	iron-deficiency anemia	名詞
+ida	鉄欠乏性貧血	名詞
+idcm	idiopathic dilated cardiomyopathy	名詞
+idcm	特発性拡張型心筋症	名詞
+idcp	type 2 autoimmune pancreatitis	名詞
+idcp	２型自己免疫性膵炎	名詞
+iddm	type 1 diabetes mellitus	名詞
+iddm	インスリン依存型糖尿病	名詞
+iddm	１型糖尿病	名詞
+idm	infant of diabetic mother	名詞
+idm	糖尿病母体児	名詞
+idpa	idiopathic dilatation of the pulmonary artery	名詞
+idpa	特発性肺動脈拡張症	名詞
+ie	infective endocarditis	名詞
+ie	感染性心内膜炎	名詞
+ifg	空腹時血糖異常	名詞
+iga-np	IgA nephropathy	名詞
+iga-np	ＩｇＡ腎症	名詞
+igh	特発性滴状色素減少症	名詞
+igt	impaired glucose tolerance	名詞
+igt	耐糖能異常	名詞
+ihd	ischemic heart disease	名詞
+ihd	虚血性心疾患	名詞
+ihss	hypertrophic obstructive cardiomyopathy	名詞
+ihss	閉塞性肥大型心筋症	名詞
+iicp	intracranial hypertension	名詞
+iicp	頭蓋内圧亢進症	名詞
+iip	idiopathic interstitial pneumonia	名詞
+iip	特発性間質性肺炎	名詞
+iips	idiopathic interstitial pneumonia	名詞
+iips	特発性間質性肺炎	名詞
+ilbbb	incomplete left bundle branch block	名詞
+ilbbb	不完全左脚ブロック	名詞
+im	infectious mononucleosis	名詞
+im	伝染性単核症	名詞
+inad	infantile neuroaxonal dystrophy	名詞
+inad	乳児神経軸索ジストロフィー	名詞
+infh	idiopathic osteonecrosis of the femoral head	名詞
+infh	特発性大腿骨頭壊死	名詞
+ino	internuclear ophthalmoplegia	名詞
+ino	核間眼筋麻痺	名詞
+inoca	非有意狭窄冠動脈由来の虚血性心疾患	名詞
+ioh	特発性起立性低血圧症	名詞
+ip	interstitial pneumonia	名詞
+ip	間質性肺炎	名詞
+ipah	idiopathic pulmonary arterial hypertension	名詞
+ipah	特発性肺動脈性肺高血圧症	名詞
+ipf	idiopathic pulmonary fibrosis	名詞
+ipf	特発性肺線維症	名詞
+iph	idiopathic portal hypertension	名詞
+iph	特発性肺ヘモジデリン沈着症	名詞
+iph	特発性門脈圧亢進症	名詞
+ipmc	intraductal papillary mucinous carcinoma	名詞
+ipmc	膵管内乳頭粘液性腺癌	名詞
+ipmn	intraductal papillary mucinous neoplasm	名詞
+ipmn	膵管内乳頭粘液性腫瘍	名詞
+ipnb	intraductal papillary neoplasm of the bile duct	名詞
+ipnb	胆管内乳頭状腫瘍	名詞
+irbbb	incomplete right bundle branch block	名詞
+irbbb	不完全右脚ブロック	名詞
+irds	新生児特発性呼吸窮迫症候群	名詞
+is	idiopathic scoliosis	名詞
+is	特発性側弯症	名詞
+isr	ステント内再狭窄	名詞
+itp	idiopathic thrombocytopenic purpura	名詞
+itp	特発性血小板減少性紫斑病	名詞
+iufd	intrauterine fetal death	名詞
+iufd	子宮内胎児死亡	名詞
+iugr	intrauterine growth retardation	名詞
+iugr	子宮内発育遅延	名詞
+iv	ichthyosis vulgaris	名詞
+iv	尋常性魚鱗癬	名詞
+ivcd	心室内伝導遅延	名詞
+ivcd	心室内伝導障害	名詞
+ivf	特発性心室細動	名詞
+ivh	intraventricular hemorrhage	名詞
+ivh	脳室内出血	名詞
+ivlbcl	intravascular large B-cell lymphoma	名詞
+ivlbcl	血管内大細胞型Ｂ細胞性リンパ腫	名詞
+jeb	junctional epidermolysis bullosa	名詞
+jeb	接合部型先天性表皮水疱症	名詞
+jet	接合部異所性頻拍	名詞
+jia	juvenile idiopathic arthritis	名詞
+jia	若年性特発性関節炎	名詞
+jra	juvenile rheumatoid arthritis	名詞
+jra	若年性関節リウマチ	名詞
+kcs	keratoconjunctivitis sicca	名詞
+kcs	乾性角結膜炎	名詞
+kid	keratitis-ichthyosis-deafness syndrome	名詞
+kid	ＫＩＤ症候群	名詞
+kss	Kearns-Sayre syndrome	名詞
+kss	カーンズ・セイアー症候群	名詞
+l-tga	congenitally corrected transposition of the great arteries	名詞
+l-tga	修正大血管転位	名詞
+lad	left axis deviation	名詞
+lad	心電図左軸偏位	名詞
+lafb	left anterior fascicular block	名詞
+lafb	左脚前枝ブロック	名詞
+lah	left anterior fascicular block	名詞
+lah	左脚前枝ブロック	名詞
+lam	lymphangioleiomyomatosis	名詞
+lam	リンパ脈管筋腫症	名詞
+lbbb	left bundle branch block	名詞
+lbbb	左脚ブロック	名詞
+lbp	low back pain	名詞
+lbp	腰痛症	名詞
+lbw	low birth weight infant	名詞
+lbw	低出生体重児	名詞
+lbwi	low birth weight infant	名詞
+lbwi	低出生体重児	名詞
+lc	liver cirrhosis	名詞
+lc	lung cancer	名詞
+lc	肝硬変症	名詞
+lc	肺癌	名詞
+lcca	晩発性小脳皮質萎縮症	名詞
+lch	Langerhans cell histiocytosis	名詞
+lch	ランゲルハンス細胞組織球症	名詞
+lcos	low cardiac output syndrome	名詞
+lcos	低心拍出量症候群	名詞
+lcs	lumbar spinal canal stenosis	名詞
+lcs	腰部脊柱管狭窄症	名詞
+ldchl	lymphocyte depleted classical Hodgkin lymphoma	名詞
+ldchl	リンパ球減少型古典的ホジキンリンパ腫	名詞
+ldh	lumbar disc herniation	名詞
+ldh	腰椎椎間板ヘルニア	名詞
+le	lupus erythematosus	名詞
+le	エリテマトーデス	名詞
+lead	下肢末梢動脈疾患	名詞
+lems	Eaton-Lambert syndrome	名詞
+lems	Lambert-Eaton myasthenic syndrome	名詞
+lems	イートン・ランバート症候群	名詞
+lems	ランバート・イートン筋無力症候群	名詞
+lga	妊娠期間に比して体重の多い新生児	名詞
+lgmd	limb-girdle muscular dystrophy	名詞
+lgmd	肢帯型筋ジストロフィー	名詞
+lhon	Leber hereditary optic neuropathy	名詞
+lhon	レーベル遺伝性視神経症	名詞
+lip	リンパ球性間質性肺炎	名詞
+lld	脚長差	名詞
+loc	loss of consciousness	名詞
+loc	意識消失	名詞
+los	low cardiac output syndrome	名詞
+los	低心拍出量症候群	名詞
+lpfb	left posterior fascicular block	名詞
+lpfb	左脚後枝ブロック	名詞
+lph	left posterior fascicular block	名詞
+lph	左脚後枝ブロック	名詞
+lpl	lymphoplasmacytic lymphoma	名詞
+lpl	リンパ形質細胞性リンパ腫	名詞
+lqts	long QT syndrome	名詞
+lqts	ＱＴ延長症候群	名詞
+lrchl	lymphocyte-rich classical Hodgkin lymphoma	名詞
+lrchl	リンパ球豊富型古典的ホジキンリンパ腫	名詞
+lscs	lumbar spinal canal stenosis	名詞
+lscs	腰部脊柱管狭窄症	名詞
+lsil	子宮頚部細胞診・軽度扁平上皮内病変	名詞
+lss	lumbar spinal canal stenosis	名詞
+lss	腰部脊柱管狭窄症	名詞
+lst	側方発育型腫瘍	名詞
+ltbi	latent tuberculosis infection	名詞
+ltbi	潜在性結核感染症	名詞
+luts	下部尿路症状	名詞
+lvf	left heart failure	名詞
+lvf	左心不全	名詞
+lvh	left ventricular hypertrophy	名詞
+lvh	左室肥大	名詞
+lyg	lymphomatoid granulomatosis	名詞
+lyg	リンパ腫様肉芽腫症	名詞
+ma	先天性僧帽弁閉鎖症	名詞
+mac	mitral annular calcification	名詞
+mac	僧帽弁輪石灰化	名詞
+mahc	悪性腫瘍随伴性高カルシウム血症	名詞
+mas	meconium aspiration syndrome	名詞
+mas	胎便吸引症候群	名詞
+mat	multifocal atrial tachycardia	名詞
+mat	多源性心房頻拍	名詞
+mbd	微細脳損傷	名詞
+mbd	微細脳障害	名詞
+mcchl	mixed cellularity classical Hodgkin lymphoma	名詞
+mcchl	混合細胞型古典的ホジキンリンパ腫	名詞
+mcd	大脳皮質形成異常	名詞
+mcdk	multicystic dysplastic kidney	名詞
+mcdk	多のう胞性異形成腎	名詞
+mch	muscle contraction headache	名詞
+mch	筋収縮性頭痛	名詞
+mci	mild cognitive impairment	名詞
+mci	軽度認知障害	名詞
+mcl	mantle cell lymphoma	名詞
+mcl	マントル細胞リンパ腫	名詞
+mcls	Kawasaki disease	名詞
+mcls	川崎病	名詞
+mcns	minimal change nephrotic syndrome	名詞
+mcns	微小変化型ネフローゼ症候群	名詞
+mctd	mixed connective tissue disease	名詞
+mctd	混合性結合組織病	名詞
+md	muscular dystrophy	名詞
+md	myotonic dystrophy	名詞
+md	筋ジストロフィー	名詞
+md	筋強直性ジストロフィー	名詞
+mdcm	軽度拡張型心筋症	名詞
+mdi	bipolar disorder	名詞
+mdi	躁うつ病	名詞
+mdrtb	multidrug-resistant tuberculosis	名詞
+mdrtb	多剤耐性結核	名詞
+mds	myelodysplastic syndrome	名詞
+mds	骨髄異形成症候群	名詞
+med	multiple epiphyseal dysplasia	名詞
+med	多発性骨端異形成症	名詞
+melas	mitochondrial encephalomyopathy, lactic acidosis and stroke-like episodes	名詞
+melas	ＭＥＬＡＳ症候群	名詞
+men	multiple endocrine neoplasia	名詞
+men	多発性内分泌腺腫症	名詞
+merrf	myoclonus epilepsy associated with ragged-red fibers	名詞
+merrf	ＭＥＲＲＦ症候群	名詞
+mers	Middle East respiratory syndrome	名詞
+mers	中東呼吸器症候群	名詞
+mets	metabolic syndrome	名詞
+mets	メタボリックシンドローム	名詞
+mf	myelofibrosis	名詞
+mf	骨髄線維症	名詞
+mfh	悪性線維性組織球腫	名詞
+mfs	Miller Fisher syndrome	名詞
+mfs	ミラーフィッシャー症候群	名詞
+mg	myasthenia gravis	名詞
+mg	重症筋無力症	名詞
+mgn	membranous nephropathy	名詞
+mgn	膜性腎症	名詞
+mgus	monoclonal gammopathy of undetermined significance	名詞
+mgus	意義不明の単クローン性免疫グロブリン血症	名詞
+mh	malignant hyperthermia	名詞
+mh	悪性高熱症	名詞
+mi	mitral regurgitation	名詞
+mi	myocardial infarction	名詞
+mi	僧帽弁閉鎖不全症	名詞
+mi	心筋梗塞	名詞
+mid	multi-infarct dementia	名詞
+mid	多発梗塞性認知症	名詞
+minoca	冠動脈閉塞を伴わない心筋梗塞	名詞
+ml	malignant lymphoma	名詞
+ml	悪性リンパ腫	名詞
+mld	metachromatic leukodystrophy	名詞
+mld	異染性白質ジストロフィー	名詞
+mlns	Kawasaki disease	名詞
+mlns	川崎病	名詞
+mm	malignant melanoma	名詞
+mm	multiple myeloma	名詞
+mm	多発性骨髄腫	名詞
+mm	悪性黒色腫	名詞
+mmihs	megacystis microcolon intestinal hypoperistalsis syndrome	名詞
+mmihs	巨大膀胱短小結腸腸管蠕動不全症	名詞
+mnd	motor neuron disease	名詞
+mnd	運動ニューロン疾患	名詞
+mnms	代謝性筋腎症候群	名詞
+mods	multiple organ failure	名詞
+mods	多臓器不全	名詞
+mody	若年発症成人型糖尿病	名詞
+mof	multiple organ failure	名詞
+mof	多臓器不全	名詞
+mpa	microscopic polyangiitis	名詞
+mpa	顕微鏡的多発血管炎	名詞
+mpgn	membranoproliferative glomerulonephritis	名詞
+mpgn	膜性増殖性糸球体腎炎	名詞
+mps	mucopolysaccharidosis	名詞
+mps	ムコ多糖症	名詞
+mr	intellectual disability	名詞
+mr	mitral regurgitation	名詞
+mr	僧帽弁逆流症	名詞
+mr	僧帽弁閉鎖不全症	名詞
+mr	知的障害	名詞
+mra	malignant rheumatoid arthritis	名詞
+mra	悪性関節リウマチ	名詞
+mrc	mitral annular calcification	名詞
+mrc	僧帽弁輪石灰化	名詞
+mrdm	malnutrition-related diabetes mellitus	名詞
+mrdm	栄養不良関連糖尿病	名詞
+mrhe	mineralocorticoid-responsive hyponatremia of the elderly	名詞
+mrhe	鉱質コルチコイド反応性低ナトリウム血症	名詞
+mronj	medication-related osteonecrosis of the jaw	名詞
+mronj	薬剤関連顎骨壊死	名詞
+ms	mitral stenosis	名詞
+ms	multiple sclerosis	名詞
+ms	僧帽弁狭窄症	名詞
+ms	多発性硬化症	名詞
+msa	multiple system atrophy	名詞
+msa	多系統萎縮症	名詞
+msud	maple syrup urine disease	名詞
+msud	メープルシロップ尿症	名詞
+mvd	多枝冠動脈疾患	名詞
+mvp	mitral valve prolapse	名詞
+mvp	mitral valve prolapse syndrome	名詞
+mvp	僧帽弁逸脱	名詞
+mvp	僧帽弁逸脱症候群	名詞
+mws	Muckle-Wells syndrome	名詞
+mws	マックル・ウエルズ症候群	名詞
+nafl	nonalcoholic fatty liver	名詞
+nafl	非アルコール性脂肪肝	名詞
+nafld	nonalcoholic fatty liver disease	名詞
+nafld	非アルコール性脂肪性肝疾患	名詞
+nanb	非A非B型肝炎	名詞
+nash	nonalcoholic steatohepatitis	名詞
+nash	非アルコール性脂肪性肝炎	名詞
+nb	neuroblastoma	名詞
+nb	神経芽腫	名詞
+nbte	非細菌性血栓性心内膜炎	名詞
+nc	nephrocalcinosis	名詞
+nc	腎石灰化症	名詞
+nca	cardiac neurosis	名詞
+nca	心臓神経症	名詞
+nca	神経循環無力症	名詞
+ndi	nephrogenic diabetes insipidus	名詞
+ndi	腎性尿崩症	名詞
+ndm	neonatal diabetes mellitus	名詞
+ndm	新生児糖尿病	名詞
+nec	necrotizing enterocolitis	名詞
+nec	壊死性腸炎	名詞
+nf	neurofibromatosis	名詞
+nf	神経線維腫症	名詞
+ngb	neurogenic bladder	名詞
+ngb	神経因性膀胱	名詞
+nhc	hyperosmolar nonketotic coma	名詞
+nhc	高浸透圧性非ケトン性昏睡	名詞
+nhcap	医療・介護関連肺炎	名詞
+nhl	non-Hodgkin lymphoma	名詞
+nhl	非ホジキンリンパ腫	名詞
+niccd	neonatal intrahepatic cholestasis caused by citrin deficiency	名詞
+niccd	シトリン欠損による新生児肝内胆汁うっ滞症	名詞
+niddm	インスリン非依存型糖尿病	名詞
+niddm	インスリン非依存性糖尿病	名詞
+nld	糖尿病性脂肪類壊死症	名詞
+nle	neonatal lupus erythematosus	名詞
+nle	新生児ループス	名詞
+nlphl	nodular lymphocyte predominant Hodgkin lymphoma	名詞
+nlphl	結節性リンパ球優位型ホジキンリンパ腫	名詞
+nmo	neuromyelitis optica	名詞
+nmo	視神経脊髄炎	名詞
+nms	neurally mediated syncope	名詞
+nms	神経調節性失神	名詞
+nmzl	nodal marginal zone lymphoma	名詞
+nmzl	節性辺縁帯リンパ腫	名詞
+nomi	non-occlusive mesenteric ischemia	名詞
+nomi	非閉塞性腸間膜虚血	名詞
+nomid	neonatal-onset multisystem inflammatory disease	名詞
+nomid	新生児期発症多臓器系炎症性疾患	名詞
+np	nasal polyp	名詞
+np	鼻茸	名詞
+npc	nasopharyngeal carcinoma	名詞
+npc	上咽頭癌	名詞
+nph	normal pressure hydrocephalus	名詞
+nph	正常圧水頭症	名詞
+npjt	非発作性房室接合部頻拍	名詞
+nqwmi	non-Q-wave myocardial infarction	名詞
+nqwmi	非Ｑ波心筋梗塞	名詞
+ns	nephrotic syndrome	名詞
+ns	ネフローゼ症候群	名詞
+nschl	nodular sclerosis classical Hodgkin lymphoma	名詞
+nschl	結節硬化型古典的ホジキンリンパ腫	名詞
+nsclc	non-small cell lung cancer	名詞
+nsclc	非小細胞肺癌	名詞
+nsf	腎性全身性線維症	名詞
+nsip	nonspecific interstitial pneumonia	名詞
+nsip	非特異性間質性肺炎	名詞
+nstemi	non-ST elevation myocardial infarction	名詞
+nstemi	非ST上昇型急性心筋梗塞	名詞
+nstemi	非ＳＴ上昇型心筋梗塞	名詞
+nsvt	nonsustained ventricular tachycardia	名詞
+nsvt	非持続性心室頻拍	名詞
+nvaf	nonvalvular atrial fibrillation	名詞
+nvaf	非弁膜症性心房細動	名詞
+nve	自己弁心内膜炎	名詞
+oa	osteoarthritis	名詞
+oa	変形性関節症	名詞
+oab	overactive bladder	名詞
+oab	過活動膀胱	名詞
+oall	ossification of anterior longitudinal ligament	名詞
+oall	前縦靱帯骨化症	名詞
+obs	organic brain syndrome	名詞
+obs	器質性脳症候群	名詞
+ocd	obsessive-compulsive disorder	名詞
+ocd	強迫性障害	名詞
+od	orthostatic dysregulation	名詞
+od	起立性調節障害	名詞
+oh	orthostatic hypotension	名詞
+oh	起立性低血圧症	名詞
+ohss	ovarian hyperstimulation syndrome	名詞
+ohss	卵巣過剰刺激症候群	名詞
+oi	opportunistic infection	名詞
+oi	osteogenesis imperfecta	名詞
+oi	日和見感染	名詞
+oi	骨形成不全症	名詞
+olf	ossification of yellow ligament	名詞
+olf	黄色靱帯骨化症	名詞
+omaav	ANCA関連血管炎性中耳炎	名詞
+ome	otitis media with effusion	名詞
+ome	滲出性中耳炎	名詞
+omi	old myocardial infarction	名詞
+omi	陳旧性心筋梗塞	名詞
+op	osteoporosis	名詞
+op	骨粗鬆症	名詞
+opca	olivopontocerebellar atrophy	名詞
+opca	オリーブ橋小脳萎縮症	名詞
+opll	ossification of the posterior longitudinal ligament	名詞
+opll	後縦靱帯骨化症	名詞
+opmd	oculopharyngeal muscular dystrophy	名詞
+opmd	眼咽頭筋型筋ジストロフィー	名詞
+os	osteosarcoma	名詞
+os	骨肉腫	名詞
+osas	閉塞性睡眠時無呼吸症候群	名詞
+oyl	ossification of yellow ligament	名詞
+oyl	黄色靱帯骨化症	名詞
+pa	pernicious anemia	名詞
+pa	primary aldosteronism	名詞
+pa	pulmonary atresia	名詞
+pa	原発性アルドステロン症	名詞
+pa	悪性貧血	名詞
+pa	肺動脈弁閉鎖	名詞
+pa	肺動脈閉鎖症	名詞
+pac	premature atrial contraction	名詞
+pac	心房期外収縮	名詞
+pad	peripheral artery disease	名詞
+pad	末梢動脈疾患	名詞
+padam	男性更年期障害	名詞
+paf	paroxysmal atrial fibrillation	名詞
+paf	pure autonomic failure	名詞
+paf	発作性心房細動	名詞
+paf	純粋自律神経不全	名詞
+pah	pulmonary arterial hypertension	名詞
+pah	肺動脈性肺高血圧症	名詞
+pan	periodic alternating nystagmus	名詞
+pan	polyarteritis nodosa	名詞
+pan	周期交代性眼振	名詞
+pan	結節性多発動脈炎	名詞
+pap	pulmonary alveolar proteinosis	名詞
+pap	乳頭腺癌	名詞
+pap	肺胞蛋白症	名詞
+papvc	partial anomalous pulmonary venous return	名詞
+papvc	部分肺静脈還流異常	名詞
+papvd	partial anomalous pulmonary venous return	名詞
+papvd	部分肺静脈還流異常	名詞
+papvr	partial anomalous pulmonary venous return	名詞
+papvr	部分肺静脈還流異常	名詞
+pat	paroxysmal atrial tachycardia	名詞
+pat	発作性心房頻拍	名詞
+pavf	pulmonary arteriovenous fistula	名詞
+pavf	肺動静脈瘻	名詞
+pbc	primary biliary cholangitis	名詞
+pbc	primary biliary cirrhosis	名詞
+pbc	原発性胆汁性肝硬変	名詞
+pbc	原発性胆汁性胆管炎	名詞
+pbp	progressive bulbar palsy	名詞
+pbp	進行性球麻痺	名詞
+pc	prostate cancer	名詞
+pc	前立腺癌	名詞
+pca	prostate cancer	名詞
+pca	前立腺癌	名詞
+pccd	進行性心臓伝導障害	名詞
+pcf	pharyngoconjunctival fever	名詞
+pcf	咽頭結膜熱	名詞
+pcfcl	primary cutaneous follicle center lymphoma	名詞
+pcfcl	原発性皮膚濾胞中心リンパ腫	名詞
+pch	pulmonary capillary hemangiomatosis	名詞
+pch	肺毛細血管腫症	名詞
+pcos	polycystic ovary syndrome	名詞
+pcos	多のう胞性卵巣症候群	名詞
+pcp	Pneumocystis pneumonia	名詞
+pcp	ニューモシスチス肺炎	名詞
+pd	Parkinson disease	名詞
+pd	panic disorder	名詞
+pd	パニック障害	名詞
+pd	パーキンソン病	名詞
+pda	patent ductus arteriosus	名詞
+pda	動脈管開存症	名詞
+pdd	Parkinson disease dementia	名詞
+pdd	pervasive developmental disorder	名詞
+pdd	広汎性発達障害	名詞
+pdd	認知症を伴うパーキンソン病	名詞
+pdr	proliferative diabetic retinopathy	名詞
+pdr	増殖糖尿病網膜症	名詞
+pe	pulmonary embolism	名詞
+pe	pulmonary thromboembolism	名詞
+pe	肺塞栓症	名詞
+pe	肺血栓塞栓症	名詞
+pea	無脈性電気活動	名詞
+peo	進行性外眼筋麻痺	名詞
+pfc	胎児循環遺残	名詞
+pfic	progressive familial intrahepatic cholestasis	名詞
+pfic	進行性家族性肝内胆汁うっ滞症	名詞
+pfo	patent foramen ovale	名詞
+pfo	卵円孔開存症	名詞
+ph	pulmonary hypertension	名詞
+ph	肺高血圧症	名詞
+phg	portal hypertensive gastropathy	名詞
+phg	門脈圧亢進症性胃症	名詞
+phpt	primary hyperparathyroidism	名詞
+phpt	原発性副甲状腺機能亢進症	名詞
+pht	pulmonary hypertension	名詞
+pht	肺高血圧症	名詞
+pi	pulmonary regurgitation	名詞
+pi	肺動脈弁閉鎖不全症	名詞
+pid	pelvic inflammatory disease	名詞
+pid	骨盤内炎症性疾患	名詞
+pion	虚血性後部視神経ニューロパチー	名詞
+pjrt	永続性接合部回帰性頻拍	名詞
+pkc	paroxysmal kinesigenic choreoathetosis	名詞
+pkc	発作性運動誘発舞踏アテトーシス	名詞
+pkd	polycystic kidney disease	名詞
+pkd	多発性のう胞腎	名詞
+pku	phenylketonuria	名詞
+pku	フェニルケトン尿症	名詞
+ple	protein-losing gastroenteropathy	名詞
+ple	蛋白漏出性胃腸症	名詞
+plsvc	persistent left superior vena cava	名詞
+plsvc	左上大静脈遺残	名詞
+pm	polymyositis	名詞
+pm	多発性筋炎	名詞
+pma	進行性筋萎縮症	名詞
+pmbl	primary mediastinal large B-cell lymphoma	名詞
+pmbl	縦隔原発大細胞型Ｂ細胞性リンパ腫	名詞
+pmd	進行性筋ジストロフィー	名詞
+pml	progressive multifocal leukoencephalopathy	名詞
+pml	進行性多巣性白質脳症	名詞
+pmr	polymyalgia rheumatica	名詞
+pmr	リウマチ性多発筋痛	名詞
+pms	premenstrual syndrome	名詞
+pms	月経前症候群	名詞
+pn	peripheral neuropathy	名詞
+pn	polyarteritis nodosa	名詞
+pn	pyelonephritis	名詞
+pn	末梢神経障害	名詞
+pn	結節性多発動脈炎	名詞
+pn	腎盂腎炎	名詞
+pndm	永続性新生児糖尿病	名詞
+pnh	paroxysmal nocturnal hemoglobinuria	名詞
+pnh	発作性夜間ヘモグロビン尿症	名詞
+pnx	pneumothorax	名詞
+pnx	気胸	名詞
+polio	poliomyelitis	名詞
+polio	ポリオ	名詞
+pop	pelvic organ prolapse	名詞
+pop	骨盤臓器脱	名詞
+pots	postural orthostatic tachycardia syndrome	名詞
+pots	体位性起立頻脈症候群	名詞
+pph	分娩後出血	名詞
+pph	原発性肺高血圧症	名詞
+pphn	persistent pulmonary hypertension of the newborn	名詞
+pphn	新生児遷延性肺高血圧症	名詞
+pr	pulmonary regurgitation	名詞
+pr	肺動脈弁閉鎖不全症	名詞
+prca	pure red cell aplasia	名詞
+prca	赤芽球ろう	名詞
+prom	premature rupture of membrane	名詞
+prom	前期破水	名詞
+ps	pulmonary valve stenosis	名詞
+ps	肺動脈弁狭窄症	名詞
+psa	psoriatic arthritis	名詞
+psa	乾癬性関節炎	名詞
+psagn	acute poststreptococcal glomerulonephritis	名詞
+psagn	溶連菌感染後急性糸球体腎炎	名詞
+psc	primary sclerosing cholangitis	名詞
+psc	原発性硬化性胆管炎	名詞
+psd	psychosomatic disease	名詞
+psd	心身症	名詞
+psh	脊椎麻酔後頭痛	名詞
+psp	progressive supranuclear palsy	名詞
+psp	進行性核上性麻痺	名詞
+pss	systemic sclerosis	名詞
+pss	全身性強皮症	名詞
+pstt	placental site trophoblastic tumor	名詞
+pstt	胎盤部トロフォブラスト腫瘍	名詞
+psvt	paroxysmal supraventricular tachycardia	名詞
+psvt	発作性上室頻拍	名詞
+ptcl	peripheral T-cell lymphoma	名詞
+ptcl	末梢性Ｔ細胞リンパ腫	名詞
+pte	pulmonary thromboembolism	名詞
+pte	肺血栓塞栓症	名詞
+pth	posttransfusion hepatitis	名詞
+pth	輸血後肝炎	名詞
+ptld	post-transplant lymphoproliferative disorder	名詞
+ptld	移植後リンパ増殖性疾患	名詞
+ptsd	post-traumatic stress disorder	名詞
+ptsd	心的外傷後ストレス障害	名詞
+pttd	posterior tibial tendon dysfunction	名詞
+pttd	後脛骨筋腱機能不全	名詞
+ptx	pneumothorax	名詞
+ptx	気胸	名詞
+pvc	premature ventricular contraction	名詞
+pvc	心室期外収縮	名詞
+pve	人工弁心内膜炎	名詞
+pvh	脳室周囲出血	名詞
+pvl	新生児脳室周囲白質軟化	名詞
+pvo	肺静脈閉塞	名詞
+pvod	pulmonary veno-occlusive disease	名詞
+pvod	肺静脈閉塞症	名詞
+pvt	発作性心室頻拍	名詞
+pxe	pseudoxanthoma elasticum	名詞
+pxe	弾性線維性仮性黄色腫	名詞
+ra	refractory anemia	名詞
+ra	rheumatoid arthritis	名詞
+ra	不応性貧血	名詞
+ra	関節リウマチ	名詞
+raa	renal artery aneurysm	名詞
+raa	腎動脈瘤	名詞
+rad	right axis deviation	名詞
+rad	心電図右軸偏位	名詞
+raeb	refractory anemia with excess blasts	名詞
+raeb	芽球増加を伴う不応性貧血	名詞
+rap	recurrent abdominal pain	名詞
+rap	反復性腹痛	名詞
+rars	refractory anemia with ringed sideroblasts	名詞
+rars	環状鉄芽球を伴う不応性貧血	名詞
+ras	renal artery stenosis	名詞
+ras	腎動脈狭窄症	名詞
+rb	retinoblastoma	名詞
+rb	網膜芽細胞腫	名詞
+rbbb	right bundle branch block	名詞
+rbbb	右脚ブロック	名詞
+rcc	renal cell carcinoma	名詞
+rcc	腎細胞癌	名詞
+rcm	restrictive cardiomyopathy	名詞
+rcm	拘束型心筋症	名詞
+rcmd	refractory cytopenia with multilineage dysplasia	名詞
+rcmd	多血球系異形成を伴う不応性血球減少症	名詞
+rct	rotator cuff tear	名詞
+rct	肩腱板断裂	名詞
+rcud	refractory cytopenia with unilineage dysplasia	名詞
+rcud	１系統に異形成を伴う不応性血球減少症	名詞
+rd	retinal detachment	名詞
+rd	網膜剥離	名詞
+rds	呼吸窮迫症候群	名詞
+repe	re-expansion pulmonary edema	名詞
+repe	再膨張性肺水腫	名詞
+rf	renal failure	名詞
+rf	respiratory failure	名詞
+rf	rheumatic fever	名詞
+rf	リウマチ熱	名詞
+rf	呼吸不全	名詞
+rf	腎不全	名詞
+rhd	rheumatic heart disease	名詞
+rhd	リウマチ性心疾患	名詞
+rind	reversible ischemic neurologic disability	名詞
+rind	可逆性虚血性神経障害	名詞
+rn	reflux nephropathy	名詞
+rn	逆流性腎症	名詞
+rod	renal osteodystrophy	名詞
+rod	腎性骨異栄養症	名詞
+rom	rupture of membranes	名詞
+rom	破水	名詞
+rop	retinopathy of prematurity	名詞
+rop	未熟児網膜症	名詞
+rpgn	rapidly progressive glomerulonephritis	名詞
+rpgn	急速進行性糸球体腎炎	名詞
+rs	Raynaud syndrome	名詞
+rs	レイノー症候群	名詞
+rsd	reflex sympathetic dystrophy	名詞
+rsd	反射性交感神経性ジストロフィー	名詞
+rta	renal tubular acidosis	名詞
+rta	尿細管性アシドーシス	名詞
+rti	呼吸器感染症	名詞
+rtk	rhabdoid tumor of the kidney	名詞
+rtk	腎ラブドイド腫瘍	名詞
+rvf	right heart failure	名詞
+rvf	右心不全	名詞
+rvh	renovascular hypertension	名詞
+rvh	right ventricular hypertrophy	名詞
+rvh	右室肥大	名詞
+rvh	腎血管性高血圧症	名詞
+rvi	右室梗塞	名詞
+sa	attempted suicide	名詞
+sa	spontaneous abortion	名詞
+sa	自殺未遂	名詞
+sa	自然流産	名詞
+sab	sinoatrial block	名詞
+sab	洞房ブロック	名詞
+sah	subarachnoid hemorrhage	名詞
+sah	くも膜下出血	名詞
+sar	sarcoidosis	名詞
+sar	サルコイドーシス	名詞
+sars	severe acute respiratory syndrome	名詞
+sars	重症急性呼吸器症候群	名詞
+sas	sleep apnea syndrome	名詞
+sas	睡眠時無呼吸症候群	名詞
+sbe	subacute bacterial endocarditis	名詞
+sbe	亜急性細菌性心内膜炎	名詞
+sbp	spontaneous bacterial peritonitis	名詞
+sbp	特発性細菌性腹膜炎	名詞
+sca	鎌状赤血球貧血	名詞
+scc	扁平上皮癌	名詞
+scd	spinocerebellar degeneration	名詞
+scd	脊髄小脳変性症	名詞
+scfe	slipped capital femoral epiphysis	名詞
+scfe	大腿骨頭すべり症	名詞
+sci	spinal cord injury	名詞
+sci	脊髄損傷	名詞
+scid	severe combined immunodeficiency	名詞
+scid	重症複合免疫不全症	名詞
+sclc	small cell lung cancer	名詞
+sclc	小細胞肺癌	名詞
+scn	severe congenital neutropenia	名詞
+scn	重症先天性好中球減少症	名詞
+sd	sudden death	名詞
+sd	突然死	名詞
+sdat	senile dementia of Alzheimer type	名詞
+sdat	アルツハイマー型老年認知症	名詞
+sdb	真皮浅層熱傷	名詞
+sdh	subdural hematoma	名詞
+sdh	硬膜下出血	名詞
+sdh	硬膜下血腫	名詞
+sdr	単純型糖尿病性網膜症	名詞
+sds	Shy-Drager syndrome	名詞
+sds	シャイ・ドレーガー症候群	名詞
+se	status epilepticus	名詞
+se	てんかん重積状態	名詞
+sepsis	sepsis	名詞
+sepsis	敗血症	名詞
+sfd	妊娠期間に比較して低体重・低身長	名詞
+sfts	severe fever with thrombocytopenia syndrome	名詞
+sfts	重症熱性血小板減少症候群	名詞
+sga	在胎不当過小	名詞
+sga	妊娠期間に比較して低体重・低身長	名詞
+shd	構造的心疾患	名詞
+shp	secondary hyperparathyroidism	名詞
+shp	続発性副甲状腺機能亢進症	名詞
+shs	supine hypotensive syndrome	名詞
+shs	仰臥位低血圧症候群	名詞
+siadh	syndrome of inappropriate secretion of antidiuretic hormone	名詞
+siadh	抗利尿ホルモン不適合分泌症候群	名詞
+sids	sudden infant death syndrome	名詞
+sids	乳児突然死症候群	名詞
+sig	印環細胞癌	名詞
+sirs	systemic inflammatory response syndrome	名詞
+sirs	全身性炎症反応症候群	名詞
+sjia	systemic juvenile idiopathic arthritis	名詞
+sjia	全身型若年性特発性関節炎	名詞
+sjs	Sjogren syndrome	名詞
+sjs	Stevens-Johnson syndrome	名詞
+sjs	シェーグレン症候群	名詞
+sjs	スティーブンス・ジョンソン症候群	名詞
+sle	systemic lupus erythematosus	名詞
+sle	全身性エリテマトーデス	名詞
+slv	左室型単心室症	名詞
+sm	systolic murmur	名詞
+sm	収縮期雑音	名詞
+smas	superior mesenteric artery syndrome	名詞
+smas	上腸間膜動脈症候群	名詞
+smi	silent myocardial ischemia	名詞
+smi	無症候性心筋虚血	名詞
+smon	subacute myelo-optico-neuropathy	名詞
+smon	スモン	名詞
+smt	submucosal tumor	名詞
+smt	粘膜下腫瘍	名詞
+smzl	splenic marginal zone lymphoma	名詞
+smzl	脾辺縁帯リンパ腫	名詞
+snd	striatonigral degeneration	名詞
+snd	線条体黒質変性症	名詞
+sne	Leigh syndrome	名詞
+sne	リー症候群	名詞
+so	sympathetic ophthalmia	名詞
+so	交感性眼炎	名詞
+sob	dyspnea	名詞
+sob	息切れ	名詞
+som	otitis media with effusion	名詞
+som	滲出性中耳炎	名詞
+spiddm	slowly progressive type 1 diabetes mellitus	名詞
+spiddm	緩徐進行１型糖尿病	名詞
+spma	脊髄性進行性筋萎縮症	名詞
+spn	solid pseudopapillary neoplasm	名詞
+spn	充実性偽乳頭状腫瘍	名詞
+sptcl	subcutaneous panniculitis-like T-cell lymphoma	名詞
+sptcl	皮下脂肪織炎様Ｔ細胞リンパ腫	名詞
+sq	扁平上皮癌	名詞
+srrd	睡眠関連呼吸障害	名詞
+srv	single ventricle of right ventricular type	名詞
+srv	右室型単心室症	名詞
+ss	Sjogren syndrome	名詞
+ss	シェーグレン症候群	名詞
+ssc	systemic sclerosis	名詞
+ssc	全身性強皮症	名詞
+ssi	手術部位感染	名詞
+sspe	subacute sclerosing panencephalitis	名詞
+sspe	亜急性硬化性全脳炎	名詞
+sss	sick sinus syndrome	名詞
+sss	洞不全症候群	名詞
+ssss	staphylococcal scalded skin syndrome	名詞
+ssss	ぶどう球菌性熱傷様皮膚症候群	名詞
+ssst	上矢状静脈洞血栓症	名詞
+std	sexually transmitted infection	名詞
+std	性行為感染症	名詞
+stemi	acute ST elevation myocardial infarction	名詞
+stemi	ＳＴ上昇型急性心筋梗塞	名詞
+sti	sexually transmitted infection	名詞
+sti	性行為感染症	名詞
+subileus	subileus	名詞
+subileus	亜イレウス	名詞
+sv	single ventricle	名詞
+sv	単心室症	名詞
+svas	supravalvular aortic stenosis	名詞
+svas	大動脈弁上狭窄症	名詞
+svcs	superior vena cava syndrome	名詞
+svcs	上大静脈症候群	名詞
+svpc	supraventricular premature contraction	名詞
+svpc	上室期外収縮	名詞
+svt	supraventricular tachycardia	名詞
+svt	上室頻拍	名詞
+ta	tricuspid atresia	名詞
+ta	truncus arteriosus	名詞
+ta	三尖弁閉鎖症	名詞
+ta	側頭動脈炎	名詞
+ta	総動脈幹	名詞
+taa	thoracic aortic aneurysm	名詞
+taa	胸部大動脈瘤	名詞
+tam	transient abnormal myelopoiesis	名詞
+tam	一過性異常骨髄造血	名詞
+tao	thromboangiitis obliterans	名詞
+tao	閉塞性血栓血管炎	名詞
+tapvc	total anomalous pulmonary venous return	名詞
+tapvc	総肺静脈還流異常	名詞
+tapvd	total anomalous pulmonary venous return	名詞
+tapvd	総肺静脈還流異常	名詞
+tapvr	total anomalous pulmonary venous return	名詞
+tapvr	総肺静脈還流異常	名詞
+tb	tuberculosis	名詞
+tb	結核	名詞
+tbc	tuberculosis	名詞
+tbc	結核	名詞
+tcmr	T cell-mediated rejection	名詞
+tcmr	Ｔ細胞関連型拒絶反応	名詞
+td	tardive dyskinesia	名詞
+td	遅発性ジスキネジア	名詞
+tdp	torsade de pointes	名詞
+tdp	トルサードドポアント	名詞
+ten	toxic epidermal necrolysis	名詞
+ten	中毒性表皮壊死症	名詞
+tf	tetralogy of Fallot	名詞
+tf	ファロー四徴症	名詞
+tga	complete transposition of the great arteries	名詞
+tga	transient global amnesia	名詞
+tga	transposition of great arteries	名詞
+tga	一過性全健忘症	名詞
+tga	大血管転位症	名詞
+tga	完全大血管転位症	名詞
+tgv	transposition of great arteries	名詞
+tgv	大血管転位症	名詞
+thrlbcl	T-cell/histiocyte-rich large B-cell lymphoma	名詞
+thrlbcl	Ｔ細胞組織球豊富型大細胞型Ｂ細胞性リンパ腫	名詞
+ti	tricuspid regurgitation	名詞
+ti	三尖弁閉鎖不全症	名詞
+tia	transient ischemic attack	名詞
+tia	一過性脳虚血発作	名詞
+tin	tubulointerstitial nephritis	名詞
+tin	尿細管間質性腎炎	名詞
+tma	thrombotic microangiopathy	名詞
+tma	血栓性微小血管症	名詞
+tn	trigeminal neuralgia	名詞
+tn	三叉神経痛	名詞
+tndm	一過性新生児糖尿病	名詞
+tof	tetralogy of Fallot	名詞
+tof	ファロー四徴症	名詞
+top	induced abortion	名詞
+top	人工妊娠中絶	名詞
+tr	tricuspid regurgitation	名詞
+tr	三尖弁逆流	名詞
+tr	三尖弁閉鎖不全症	名詞
+trali	transfusion-related acute lung injury	名詞
+trali	輸血関連急性肺障害	名詞
+traps	TNF receptor-associated periodic syndrome	名詞
+traps	ＴＮＦ受容体関連周期性症候群	名詞
+ts	tricuspid stenosis	名詞
+ts	三尖弁狭窄症	名詞
+tsp	熱帯性痙性不全対麻痺症	名詞
+tss	toxic shock syndrome	名詞
+tss	毒素ショック症候群	名詞
+tth	tension-type headache	名詞
+tth	緊張型頭痛	名詞
+ttn	transient tachypnea of the newborn	名詞
+ttn	新生児一過性多呼吸	名詞
+ttp	thrombotic thrombocytopenic purpura	名詞
+ttp	血栓性血小板減少性紫斑病	名詞
+ttts	twin-to-twin transfusion syndrome	名詞
+ttts	双胎児間輸血症候群	名詞
+tvd	三枝病変	名詞
+ua	unstable angina	名詞
+ua	不安定狭心症	名詞
+uap	unstable angina	名詞
+uap	不安定狭心症	名詞
+uc	ulcerative colitis	名詞
+uc	潰瘍性大腸炎	名詞
+udt	cryptorchidism	名詞
+udt	停留精巣	名詞
+upi	子宮胎盤機能不全	名詞
+uri	上気道感染症	名詞
+uti	urinary tract infection	名詞
+uti	尿路感染症	名詞
+va	ventricular aneurysm	名詞
+va	心室瘤	名詞
+vad	vascular dementia	名詞
+vad	血管性認知症	名詞
+vaf	弁膜症性心房細動	名詞
+vahs	virus-associated hemophagocytic syndrome	名詞
+vahs	ウイルス関連血球貪食症候群	名詞
+vali	人工呼吸器関連肺傷害	名詞
+vap	variant angina pectoris	名詞
+vap	ventilator-associated pneumonia	名詞
+vap	人工呼吸器関連肺炎	名詞
+vap	異型狭心症	名詞
+vbi	vertebrobasilar insufficiency	名詞
+vbi	椎骨脳底動脈循環不全	名詞
+vd	vascular dementia	名詞
+vd	血管性認知症	名詞
+veds	vascular Ehlers-Danlos syndrome	名詞
+veds	血管型エーラス・ダンロス症候群	名詞
+vf	ventricular fibrillation	名詞
+vf	心室細動	名詞
+vhd	valvular heart disease	名詞
+vhd	心臓弁膜症	名詞
+vhl	von Hippel-Lindau disease	名詞
+vhl	フォンヒッペル・リンダウ病	名詞
+vipoma	ＶＩＰ産生腫瘍	名詞
+vlbw	very low birth weight infant	名詞
+vlbw	極低出生体重児	名詞
+vlst	超遅発性ステント血栓症	名詞
+vpb	premature ventricular contraction	名詞
+vpb	心室期外収縮	名詞
+vpc	premature ventricular contraction	名詞
+vpc	心室期外収縮	名詞
+vsa	coronary spastic angina	名詞
+vsa	冠攣縮性狭心症	名詞
+vsd	ventricular septal defect	名詞
+vsd	心室中隔欠損症	名詞
+vsp	心室中隔穿孔	名詞
+vsr	心室中隔破裂	名詞
+vt	ventricular tachycardia	名詞
+vt	心室頻拍	名詞
+vte	静脈性血栓塞栓症	名詞
+vte	静脈血栓塞栓症	名詞
+vur	vesicoureteral reflux	名詞
+vur	膀胱尿管逆流	名詞
+wdha	水様下痢低カリウム血症無胃酸症候群	名詞
+wg	granulomatosis with polyangiitis	名詞
+wg	多発血管炎性肉芽腫症	名詞
+whd	spinal muscular atrophy type 1	名詞
+whd	脊髄性筋萎縮症Ｉ型	名詞
+wk	ウェルニッケ・コルサコフ症候群	名詞
+wms	Wilson-Mikity syndrome	名詞
+wms	ウイルソン・ミキティ症候群	名詞
+wpw	Wolff-Parkinson-White syndrome	名詞
+wpw	ＷＰＷ症候群	名詞
+wt	nephroblastoma	名詞
+wt	腎芽腫	名詞
+wws	Walker-Warburg syndrome	名詞
+wws	ウォーカー・ワールブルグ症候群	名詞
+xla	X-linked agammaglobulinemia	名詞
+xla	Ｘ連鎖無ガンマグロブリン血症	名詞
+xli	recessive X-linked ichthyosis	名詞
+xli	Ｘ連鎖性潜性（劣性）魚鱗癬	名詞
+xp	xeroderma pigmentosum	名詞
+xp	色素性乾皮症	名詞
+xt	exotropia	名詞
+xt	外斜視	名詞
+yst	yolk sac tumor	名詞
+yst	卵黄のう腫瘍	名詞
