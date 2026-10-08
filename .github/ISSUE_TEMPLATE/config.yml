@@ -1,0 +1,5 @@
+blank_issues_enabled: false
+contact_links:
+  - name: メールで連絡する
+    url: https://github.com/medi-ikkandou/mst-medical-ime-dict#誤りの報告語の追加
+    about: GitHub のアカウントが無い場合は、メール（medi.ikkandou@gmail.com）でお送りください。

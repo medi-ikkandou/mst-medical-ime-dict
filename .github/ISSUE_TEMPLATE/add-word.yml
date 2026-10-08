@@ -1,0 +1,55 @@
+name: 語彙の追加
+description: 辞書に無い語の追加を提案する
+title: "[追加] "
+labels: []
+body:
+  - type: markdown
+    attributes:
+      value: |
+        投稿の前に [CONTRIBUTING.md](https://github.com/medi-ikkandou/mst-medical-ime-dict/blob/main/CONTRIBUTING.md) をお読みください。投稿された内容は、この辞書の配布条件（CC BY-NC 4.0 と、README に書いた追加の許諾）で配布します。
+        応答の時期はお約束できません。
+        患者の情報や、電子カルテの画面のスクリーンショットは含めないでください。Issue は誰でも読めます。
+  - type: input
+    id: yomi
+    attributes:
+      label: 読み
+      description: ひらがなで書いてください。略語は英字で書いてください。
+      placeholder: とうにょうびょう
+    validations:
+      required: true
+  - type: input
+    id: surface
+    attributes:
+      label: 表記
+      description: 変換したときに出てほしい文字列です。
+      placeholder: 糖尿病
+    validations:
+      required: true
+  - type: dropdown
+    id: category
+    attributes:
+      label: カテゴリ
+      description: どの辞書に入るべき語ですか。
+      options:
+        - 医薬品
+        - 一般名変換
+        - 傷病名
+        - 副作用名
+        - 略語
+        - わからない
+    validations:
+      required: true
+  - type: textarea
+    id: source
+    attributes:
+      label: 出典
+      description: この語がこの表記・読みで使われていることが分かる資料（URL、書名とページなど）を書いてください。
+    validations:
+      required: true
+  - type: checkboxes
+    id: agree
+    attributes:
+      label: 同意
+      options:
+        - label: 投稿した内容を、この辞書の配布条件（CC BY-NC 4.0 と README の追加の許諾）で配布することに同意します
+          required: true

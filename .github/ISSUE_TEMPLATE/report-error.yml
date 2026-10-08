@@ -1,0 +1,51 @@
+name: 誤りの報告
+description: 読みや表記の誤り、変換できない語を知らせる
+title: "[誤り] "
+labels: []
+body:
+  - type: markdown
+    attributes:
+      value: |
+        応答の時期はお約束できません。
+        患者の情報や、電子カルテの画面のスクリーンショットは含めないでください。Issue は誰でも読めます。
+  - type: input
+    id: typed
+    attributes:
+      label: 打った読み
+      placeholder: とうにょうびょう
+    validations:
+      required: true
+  - type: input
+    id: got
+    attributes:
+      label: 出た候補
+      description: 誤っている候補を書いてください。候補が出なかった場合は「出ない」と書いてください。
+    validations:
+      required: true
+  - type: input
+    id: expected
+    attributes:
+      label: 出るべき候補
+    validations:
+      required: true
+  - type: dropdown
+    id: ime
+    attributes:
+      label: 使っている IME
+      options:
+        - Google 日本語入力
+        - Microsoft IME
+    validations:
+      required: true
+  - type: input
+    id: file
+    attributes:
+      label: 取り込んだファイル
+      description: 取り込んだ辞書ファイルの名前を書いてください（版と配布物が分かります）。分からなければ「わからない」と書いてください。
+      placeholder: pharmacist-msime-2026.10.08.txt
+    validations:
+      required: true
+  - type: textarea
+    id: note
+    attributes:
+      label: 補足

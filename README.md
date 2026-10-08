@@ -94,6 +94,17 @@ Microsoft IME での動作は保証しません。取り込める件数の上限
 
 本辞書は、医薬品の取り違えを防ぐ機能を持ちません。
 
+## 誤りの報告・語の追加
+
+辞書の誤りや、追加してほしい語があれば、次のどちらかでお知らせください。
+
+- GitHub の Issue: https://github.com/medi-ikkandou/mst-medical-ime-dict/issues/new/choose （「語彙の追加」「誤りの報告」のテンプレートがあります）
+- メール: medi.ikkandou@gmail.com
+
+投稿された内容は、この辞書の配布条件（CC BY-NC 4.0 と、下の「ライセンス」に書いた追加の許諾）で配布します。投稿をもって、このことに同意したものとします。メールでの投稿も同じです。語の追加には出典を書いてください。詳しくは https://github.com/medi-ikkandou/mst-medical-ime-dict/blob/main/CONTRIBUTING.md をご覧ください。
+
+患者の情報や、電子カルテの画面のスクリーンショットは含めないでください。応答や反映の時期はお約束できません。
+
 ## ライセンス
 
 [CC BY-NC 4.0](LICENSE)（表示 - 非営利 4.0 国際）です。
