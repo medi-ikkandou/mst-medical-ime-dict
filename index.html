@@ -1,0 +1,213 @@
+<!doctype html>
+<html lang="ja">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Microsoft IME 用 辞書のまとめ</title>
+<style>
+  :root { color-scheme: light dark; }
+  body { font-family: system-ui, sans-serif; line-height: 1.7; margin: 0 auto; max-width: 44rem; padding: 1rem; }
+  label { display: block; }
+  #sets button { margin: 0 .5rem .5rem 0; }
+  .warn { border-left: 4px solid #c60; padding-left: .75rem; }
+  #go { font-size: 1.05rem; padding: .4rem 1rem; }
+  fieldset { border: 0; margin: 0; padding: 0; }
+</style>
+</head>
+<body>
+<h1>Microsoft IME 用に辞書を 1 ファイルにまとめる</h1>
+<p id="version"></p>
+<p>選んだ辞書を 1 つのファイルにまとめてダウンロードします。Microsoft IME のユーザー辞書ツールで、このファイル 1 本を取り込んでください。取り込みと入れ替えの手順は <a href="https://github.com/medi-ikkandou/mst-medical-ime-dict#readme">README</a> にあります。</p>
+<p>Google 日本語入力は辞書を別々に持てるので、このページを使う必要はありません。</p>
+
+<fieldset id="choice">
+<h2>セットから選ぶ</h2>
+<p>押すと、そのセットの辞書にチェックが入ります。そこから辞書を足したり外したりできます。</p>
+<div id="sets"></div>
+
+<h2>辞書</h2>
+<div id="dicts"></div>
+</fieldset>
+
+<h2>ダウンロード</h2>
+<p class="warn"><strong>まとめたファイルは、セット・種類ごとの辞書・別のまとめたファイルと一緒に取り込まないでください。</strong>すでにセットや辞書を取り込んでいる場合は、それを取り込んだときのファイルで「テキストファイルで削除」をしてから、まとめたファイルを取り込んでください。</p>
+<button id="go" type="button" disabled>まとめてダウンロード</button>
+<p id="result" role="status"></p>
+
+<script type="application/json" id="page-data">{"version":"2026.10.11","dicts":[{"id":"abbreviations","name":"略語","lines":1921,"sha256":"38754835a9a0f1d0932f31b55df78df14160c7fa1979ca05b8a2326c767c63f2"},{"id":"adverse_reactions","name":"副作用名","lines":998,"sha256":"bc97fd65d747f0d082199de17bbda823e45f048917a626aede36d78cfab0f63d"},{"id":"aliases","name":"現場用語","lines":198,"sha256":"02446c94b970f77023d90b05c2b90155c9aac92c8c60aee6e3c448eaf8f6238c"},{"id":"care","name":"介護","lines":523,"sha256":"6d14f15ef7f2d5db46c6f5f82644d0472f85d55e1e039a88053b62160ca72c60"},{"id":"diseases","name":"傷病名","lines":31630,"sha256":"661a0cd11d28dc05fc3750be4ad3d89318583ee73a338836c4c9c1c19b9b45b4"},{"id":"exams","name":"検査","lines":776,"sha256":"9c1f36e921ae113fe4c9a09d211e51886657537b4828c15a1b5ebc12b08417b5"},{"id":"generic_names","name":"一般名変換","lines":32084,"sha256":"eddbd9a4d0fc5fc53b22594c91adf28c601a02f4a958c5e919391e75e4a40a91"},{"id":"generic_names_narrow","name":"一般名変換（絞り込み）","lines":79564,"sha256":"59989ba951f2705241464c085482dac6a956194639c3b0003b6379d98d799c9a"},{"id":"medicines","name":"医薬品","lines":19905,"sha256":"b6d785e5adf14f9b1cace93b80cfde87cc2fd46022ec825a01081682bf9f71d5"},{"id":"nursing","name":"看護","lines":545,"sha256":"9081b39088703252c1efd198533155864c26bf61efdcb6e61d5287e5973dc821"},{"id":"procedures","name":"処置","lines":182,"sha256":"bca3762fc7d568f607f1c0d597c7b842703aaae0178211a7f88e9c2a1966d954"},{"id":"surgery","name":"術式","lines":2144,"sha256":"81cd29e2309f93eb0ad742221e08b2e22257e078d01defce46191491e97557c3"}],"sets":[{"id":"pharmacist","name":"薬剤師向けセット","dicts":["medicines","generic_names","adverse_reactions","diseases"]},{"id":"doctor","name":"医師向けセット","dicts":["diseases","medicines","generic_names","adverse_reactions","abbreviations","exams","surgery","aliases"]},{"id":"nurse","name":"看護師向けセット","dicts":["nursing","procedures","exams","medicines","diseases","adverse_reactions","abbreviations","aliases"]},{"id":"homecare","name":"在宅医療向けセット","dicts":["nursing","care","procedures","exams","medicines","diseases","adverse_reactions","abbreviations","aliases"]},{"id":"caregiver","name":"介護向けセット","dicts":["care","nursing","medicines","diseases","procedures","aliases"]},{"id":"all","name":"全部入り","dicts":["abbreviations","adverse_reactions","aliases","care","diseases","exams","generic_names","generic_names_narrow","medicines","nursing","procedures","surgery"]}]}</script>
+<script type="module">
+
+const POS = "名詞";
+const MAX_UNITS = 60;
+
+export function compareCodePoints(a, b) {
+  const ia = a[Symbol.iterator]();
+  const ib = b[Symbol.iterator]();
+  for (;;) {
+    const x = ia.next();
+    const y = ib.next();
+    if (x.done || y.done) return (x.done ? 0 : 1) - (y.done ? 0 : 1);
+    const d = x.value.codePointAt(0) - y.value.codePointAt(0);
+    if (d !== 0) return d;
+  }
+}
+
+export function parseMsime(bytes, name) {
+  if (bytes.length < 2 || bytes[0] !== 0xff || bytes[1] !== 0xfe) {
+    throw new Error(`${name}: UTF-16LE の BOM が無い`);
+  }
+  let text;
+  try {
+    // fatal は Python の strict な decode と、ignoreBOM は 2 個目の BOM を文字として残す Python と揃える
+    text = new TextDecoder("utf-16le", { fatal: true, ignoreBOM: true }).decode(bytes.subarray(2));
+  } catch {
+    throw new Error(`${name}: UTF-16LE として読めない`);
+  }
+  if (!text.endsWith("\r\n")) throw new Error(`${name}: 末尾が改行（CRLF）で終わっていない`);
+  const body = text.slice(0, -2);
+  const entries = [];
+  (body ? body.split("\r\n") : []).forEach((line, i) => {
+    const cols = line.split("\t");
+    if (line.includes("\r") || line.includes("\n") || cols.length !== 3 || cols[2] !== POS || !cols[0] || !cols[1]) {
+      throw new Error(`${name}: ${i + 1} 行目が 読み<TAB>表記<TAB>${POS} でない`);
+    }
+    entries.push([cols[0], cols[1]]);
+  });
+  return entries;
+}
+
+export function encodeMsime(entries) {
+  const text = entries.map(([yomi, surface]) => `${yomi}\t${surface}\t${POS}\r\n`).join("");
+  const out = new Uint8Array(2 + text.length * 2);
+  out[0] = 0xff;
+  out[1] = 0xfe;
+  for (let i = 0; i < text.length; i++) {
+    const c = text.charCodeAt(i);
+    out[2 + 2 * i] = c & 0xff;
+    out[3 + 2 * i] = c >> 8;
+  }
+  return out;
+}
+
+export function chooseOrder(data, selected) {
+  const known = new Set(data.dicts.map((d) => d.id));
+  const chosen = new Set(selected);
+  if (chosen.size === 0) throw new Error("辞書が選ばれていない");
+  for (const id of chosen) if (!known.has(id)) throw new Error(`知らない辞書: ${id}`);
+  for (const s of data.sets) {
+    if (s.dicts.length === chosen.size && s.dicts.every((id) => chosen.has(id))) return { ids: s.dicts, setId: s.id };
+  }
+  return { ids: data.dicts.map((d) => d.id).filter((id) => chosen.has(id)), setId: null };
+}
+
+export function fileName(data, selected) {
+  const { ids, setId } = chooseOrder(data, selected);
+  return `mst-medical-ime-dict-${data.version}-msime-${setId ?? ids.join("+")}.txt`;
+}
+
+export async function sha256Hex(bytes) {
+  const digest = await crypto.subtle.digest("SHA-256", bytes);
+  return [...new Uint8Array(digest)].map((b) => b.toString(16).padStart(2, "0")).join("");
+}
+
+export async function mergeDicts(data, selected, fetchBytes) {
+  const { ids } = chooseOrder(data, selected);
+  const byId = new Map(data.dicts.map((d) => [d.id, d]));
+  const seen = new Set();
+  const entries = [];
+  for (const id of ids) {
+    const name = `msime/${id}-msime.txt`;
+    let bytes;
+    try {
+      bytes = await fetchBytes(id);
+    } catch (e) {
+      throw new Error(e.message.startsWith(name) ? e.message : `${name} を取得できない: ${e.message}`);
+    }
+    if ((await sha256Hex(bytes)) !== byId.get(id).sha256) {
+      throw new Error(`${name}: 中身が ${data.version} 版のものと違う。ページを再読み込みしてからやり直す`);
+    }
+    const found = parseMsime(bytes, name);
+    if (found.length !== byId.get(id).lines) {
+      throw new Error(`${name}: 行数が ${byId.get(id).lines} でなく ${found.length}`);
+    }
+    for (const [yomi, surface] of found) {
+      const key = `${yomi}\t${surface}`;
+      if (!seen.has(key)) {
+        seen.add(key);
+        entries.push([yomi, surface]);
+      }
+    }
+  }
+  entries.sort((a, b) => compareCodePoints(a[0], b[0]));
+  if (entries.length === 0) throw new Error("まとめた結果が 0 行");
+  const long = entries.find(([yomi, surface]) => yomi.length > MAX_UNITS || surface.length > MAX_UNITS);
+  if (long) throw new Error(`${MAX_UNITS} 文字を超える行がある: ${long[0]}\t${long[1]}`);
+  return { bytes: encodeMsime(entries), lines: entries.length, fileName: fileName(data, selected) };
+}
+
+
+const data = JSON.parse(document.getElementById("page-data").textContent);
+document.getElementById("version").textContent = `${data.version} 版`;
+
+const boxes = new Map();
+const dictsEl = document.getElementById("dicts");
+for (const d of data.dicts) {
+  const label = document.createElement("label");
+  const box = document.createElement("input");
+  box.type = "checkbox";
+  box.value = d.id;
+  label.append(box, ` ${d.name}（${d.id}、${d.lines.toLocaleString()} 行）`);
+  dictsEl.append(label);
+  boxes.set(d.id, box);
+}
+
+const go = document.getElementById("go");
+const result = document.getElementById("result");
+const selected = () => [...boxes.values()].filter((b) => b.checked).map((b) => b.value);
+const refresh = () => {
+  go.disabled = selected().length === 0;
+  result.textContent = "";
+};
+dictsEl.addEventListener("change", refresh);
+
+const setsEl = document.getElementById("sets");
+for (const s of data.sets) {
+  const b = document.createElement("button");
+  b.type = "button";
+  b.textContent = s.name;
+  b.addEventListener("click", () => {
+    for (const [id, box] of boxes) box.checked = s.dicts.includes(id);
+    refresh();
+  });
+  setsEl.append(b);
+}
+
+const choice = document.getElementById("choice");
+go.addEventListener("click", async () => {
+  // まとめている間に選択を変えて押し直すと、2 本並んで走って結果の表示が入れ替わる
+  choice.disabled = true;
+  go.disabled = true;
+  result.textContent = "まとめています…";
+  try {
+    const r = await mergeDicts(data, selected(), async (id) => {
+      const res = await fetch(`msime/${id}-msime.txt`, { cache: "no-cache" });
+      if (!res.ok) throw new Error(`msime/${id}-msime.txt を取得できない（${res.status}）`);
+      return new Uint8Array(await res.arrayBuffer());
+    });
+    const a = document.createElement("a");
+    a.href = URL.createObjectURL(new Blob([r.bytes], { type: "text/plain" }));
+    a.download = r.fileName;
+    a.click();
+    setTimeout(() => URL.revokeObjectURL(a.href), 60000);
+    result.textContent = `${r.fileName}（${r.lines.toLocaleString()} 行）をダウンロードしました。`
+      + (r.lines > 42000 ? "この件数の取り込みは Windows 実機で確かめていません。" : "");
+  } catch (e) {
+    result.textContent = `まとめられませんでした: ${e.message}`;
+  } finally {
+    choice.disabled = false;
+    go.disabled = selected().length === 0;
+  }
+});
+</script>
+</body>
+</html>
